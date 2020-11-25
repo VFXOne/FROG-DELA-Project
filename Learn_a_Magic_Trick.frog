@@ -1,0 +1,270 @@
+{
+  "graph": {
+    "_id": "ckhp4ab9j00022474z0svxdr4",
+    "name": "Learn a Magic Trick",
+    "ownerId": "HAbjCKQnrafGeMhtN",
+    "createdAt": "2020-11-19T17:37:15.655Z",
+    "uiStatus": "active",
+    "graphVersion": 2,
+    "broken": false,
+    "duration": 60,
+    "published": true
+  },
+  "activities": [
+    {
+      "_id": "ckhp4arvp00032474grmyygpi",
+      "length": 4,
+      "plane": 3,
+      "startTime": 0,
+      "title": "Lecture about misdirection",
+      "activityType": "ac-prez",
+      "configVersion": 1,
+      "data": {
+        "studentCannotGoFurther": true,
+        "studentMustFollow": false,
+        "everyoneCanEdit": false,
+        "title": "Misdirection"
+      },
+      "participationMode": "readonly"
+    },
+    {
+      "_id": "ckhp4cylu000724741zhkui42",
+      "length": 4,
+      "plane": 1,
+      "startTime": 13,
+      "title": "Guess the trick",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "answers": [
+              {"choice": "Yes", "isCorrect": true},
+              {"choice": "No"},
+              {"choice": "I don't know"}
+            ],
+            "question": "<p>The magician has 2 identical cards in the deck</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>The magician has a small pp</p>",
+            "answers": [
+              {"choice": "Yes"},
+              {"choice": "No", "isCorrect": true},
+              {"choice": "I don't know"}
+            ]
+          }
+        ],
+        "title": "What's the trick ?",
+        "guidelines": "<p>Try to guess where the magic happened in the short video we showed you.</p>",
+        "advancedConfig": true,
+        "hasAnswers": true
+      }
+    },
+    {
+      "_id": "ckhp4dlog00082474szzjih0d",
+      "length": 4,
+      "plane": 3,
+      "startTime": 5,
+      "title": "Show a trick",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
+      "streamTarget": "undefined"
+    },
+    {
+      "_id": "ckhp4kwbd000d2474flwksjuz",
+      "length": 6,
+      "plane": 3,
+      "startTime": 19,
+      "title": "Advanced concepts",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+    },
+    {
+      "_id": "ckhp4m6j2000f247457rpz4rj",
+      "length": 5,
+      "plane": 3,
+      "startTime": 19,
+      "title": "Explain the trick",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+    },
+    {
+      "_id": "ckhp4n5qt000i24747op88sjt",
+      "length": 5,
+      "plane": 1,
+      "startTime": 27,
+      "title": "Discover trick to learn",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+    },
+    {
+      "_id": "ckhp4w5a7000k24749dtbs4ho",
+      "length": 5,
+      "plane": 2,
+      "startTime": 34,
+      "title": "Practive with a peer",
+      "activityType": "ac-iframe",
+      "configVersion": 1,
+      "data": {"trusted": true, "url": "https://meet.jit.si/DELA-test"},
+      "groupingKey": "Practice group"
+    },
+    {
+      "_id": "ckhp4wcvi000l24741sl63hxs",
+      "length": 5,
+      "plane": 1,
+      "startTime": 34,
+      "title": "Practice alone",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {"title": "Now practice", "text": "<p>You lonely fuck</p>"}
+    },
+    {
+      "_id": "ckhp4x391000o2474ng7v593z",
+      "length": 5,
+      "plane": 2,
+      "startTime": 41,
+      "title": "Show the trick to someone",
+      "activityType": "ac-iframe",
+      "configVersion": 1,
+      "data": {"url": "https://meet.jit.si/DELA-test"},
+      "groupingKey": "group"
+    },
+    {
+      "_id": "ckhp4xu33000p2474bgqwzqvs",
+      "length": 5,
+      "plane": 1,
+      "startTime": 48,
+      "title": "Try to guess the trick",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "answers": [{"choice": "Yes", "isCorrect": true}, {"choice": "No"}],
+            "question": "<p>Did he snorted ?</p>"
+          }
+        ],
+        "title": "Where did the magic happen ?",
+        "guidelines": "<p>Try to guess the trick of your colleague</p>",
+        "advancedConfig": true,
+        "hasAnswers": true
+      }
+    }
+  ],
+  "operators": [
+    {
+      "_id": "ckhp5u8co001i2474uk1qd9fs",
+      "time": 18.210242587601137,
+      "type": "social",
+      "y": 118,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {
+        "grouping": "Guess the trick skill",
+        "groupnumber": true,
+        "globalnum": 2
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ckhpb91a3002a24748rwths4l",
+      "time": 17.239892183288443,
+      "type": "product",
+      "y": 183,
+      "operatorType": "op-dataset",
+      "title": "Dataset from quiz data",
+      "data": {
+        "datasets": [
+          {
+            "primaryType": "categorical",
+            "secondaryType": "categorical",
+            "name": "Answers",
+            "primary": 0
+          }
+        ]
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ckhpbgsem002l2474pueeu9x8",
+      "time": 31.924528301886802,
+      "type": "social",
+      "y": 165,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {
+        "grouping": "Practice group",
+        "groupnumber": true,
+        "globalnum": 2
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "ckhpbi30d002s247408mhimg9",
+      "time": 40.52830188679245,
+      "type": "social",
+      "y": 192,
+      "operatorType": "op-argue",
+      "title": "Argue",
+      "configVersion": 1,
+      "data": {}
+    }
+  ],
+  "connections": [
+    {
+      "_id": "ckhp5xa6u001m2474h0z9auxg",
+      "source": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"},
+      "target": {"type": "activity", "id": "ckhp4kwbd000d2474flwksjuz"}
+    },
+    {
+      "_id": "ckhp5ys9f001r2474fqjh1cl3",
+      "source": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"},
+      "target": {"type": "activity", "id": "ckhp4m6j2000f247457rpz4rj"}
+    },
+    {
+      "_id": "ckhpb9344002b2474x3he8m1g",
+      "source": {"type": "activity", "id": "ckhp4cylu000724741zhkui42"},
+      "target": {"type": "operator", "id": "ckhpb91a3002a24748rwths4l"}
+    },
+    {
+      "_id": "ckhpbajzk002c2474f6gjsofk",
+      "source": {"type": "operator", "id": "ckhpb91a3002a24748rwths4l"},
+      "target": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"}
+    },
+    {
+      "_id": "ckhpbgwqf002m2474bh5glzjt",
+      "source": {"type": "activity", "id": "ckhp4n5qt000i24747op88sjt"},
+      "target": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"}
+    },
+    {
+      "_id": "ckhpbh3nq002n2474g8b4uyki",
+      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
+      "target": {"type": "activity", "id": "ckhp4wcvi000l24741sl63hxs"}
+    },
+    {
+      "_id": "ckhpbh4ns002o2474fr55elph",
+      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
+      "target": {"type": "activity", "id": "ckhp4w5a7000k24749dtbs4ho"}
+    },
+    {
+      "_id": "ckhpbieop002t2474c1yxqz90",
+      "source": {"type": "operator", "id": "ckhpbi30d002s247408mhimg9"},
+      "target": {"type": "activity", "id": "ckhp4x391000o2474ng7v593z"}
+    }
+  ]
+}
