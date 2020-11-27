@@ -63,7 +63,7 @@
     "jest-runner": "^25.1.0",
     "jest-runtime": "^25.1.0",
     "json-stringify-pretty-compact": "^2.0.0",
-    "nps": "^5.9.12",
+    "nps": "^5.10.0",
     "ot-json0": "^1.1.0",
     "prettier": "^1.19.1",
     "react-test-renderer": "^16.12.0",

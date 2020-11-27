@@ -1,9 +1,9 @@
 {
   "graph": {
-    "_id": "ckhp4ab9j00022474z0svxdr4",
+    "_id": "cki0a78wt000n2678oxs5spb3",
     "name": "Learn a Magic Trick",
-    "ownerId": "HAbjCKQnrafGeMhtN",
-    "createdAt": "2020-11-19T17:37:15.655Z",
+    "ownerId": "KK9nND8RxjYHoXmRZ",
+    "createdAt": "2020-11-27T13:08:18.269Z",
     "uiStatus": "active",
     "graphVersion": 2,
     "broken": true,
@@ -12,8 +12,8 @@
   },
   "activities": [
     {
-      "_id": "ckhp4arvp00032474grmyygpi",
-      "length": 4,
+      "_id": "cki0a78ww000o26783ez5ypcd",
+      "length": 3,
       "plane": 3,
       "startTime": 0,
       "title": "Lecture about misdirection",
@@ -28,10 +28,10 @@
       "participationMode": "readonly"
     },
     {
-      "_id": "ckhp4cylu000724741zhkui42",
-      "length": 4,
+      "_id": "cki0a78ww000p2678hyc96l2u",
+      "length": 3,
       "plane": 1,
-      "startTime": 13,
+      "startTime": 15,
       "title": "Guess the trick",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -68,29 +68,18 @@
       }
     },
     {
-      "_id": "ckhp4dlog00082474szzjih0d",
-      "length": 4,
+      "_id": "cki0a78ww000q2678xub2jkjh",
+      "length": 2,
       "plane": 3,
-      "startTime": 5,
+      "startTime": 8,
       "title": "Show a trick",
-      "activityType": "ac-video",
-      "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
-      "streamTarget": "undefined"
-    },
-    {
-      "_id": "ckhp4kwbd000d2474flwksjuz",
-      "length": 6,
-      "plane": 3,
-      "startTime": 19,
-      "title": "Advanced concepts",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     },
     {
-      "_id": "ckhp4m6j2000f247457rpz4rj",
-      "length": 6,
+      "_id": "cki0a78wx000s2678ljbicspc",
+      "length": 2,
       "plane": 3,
       "startTime": 19,
       "title": "Explain the trick",
@@ -100,41 +89,31 @@
       "participationMode": "readonly"
     },
     {
-      "_id": "ckhp4n5qt000i24747op88sjt",
-      "length": 5,
+      "_id": "cki0a78wx000t2678oqq5yjqc",
+      "length": 7,
       "plane": 1,
-      "startTime": 27,
-      "title": "Discover trick 1",
+      "startTime": 30,
+      "title": "DT1 solo",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     },
     {
-      "_id": "ckhp4w5a7000k24749dtbs4ho",
-      "length": 5,
+      "_id": "cki0a78wy000u2678ru8z1a21",
+      "length": 7,
       "plane": 2,
-      "startTime": 34,
+      "startTime": 30,
       "title": "Practive with peer",
       "activityType": "ac-iframe",
       "configVersion": 1,
-      "data": {"trusted": true, "url": "https://meet.jit.si/DELA-test"},
-      "groupingKey": "Practice group"
+      "data": {"trusted": true, "url": "https://meet.jit.si/DELA-{}"},
+      "groupingKey": "role"
     },
     {
-      "_id": "ckhp4wcvi000l24741sl63hxs",
-      "length": 5,
-      "plane": 1,
-      "startTime": 34,
-      "title": "Practice alone",
-      "activityType": "ac-text",
-      "configVersion": 1,
-      "data": {"title": "Now practice", "text": "<p>You lonely fuck</p>"}
-    },
-    {
-      "_id": "ckhp4x391000o2474ng7v593z",
-      "length": 5,
+      "_id": "cki0a78wy000w2678s8ktluss",
+      "length": 3,
       "plane": 2,
-      "startTime": 43,
+      "startTime": 42,
       "title": "Show the trick to someone",
       "activityType": "ac-iframe",
       "configVersion": 1,
@@ -142,11 +121,11 @@
       "groupingKey": "group"
     },
     {
-      "_id": "ckhp4xu33000p2474bgqwzqvs",
-      "length": 5,
+      "_id": "cki0a78wz000x26782t948jip",
+      "length": 3,
       "plane": 1,
       "startTime": 50,
-      "title": "Try to guess the trick",
+      "title": "guess and evaluate",
       "activityType": "ac-quiz",
       "configVersion": 1,
       "data": {
@@ -167,11 +146,33 @@
       }
     },
     {
-      "_id": "cki061efb00292474y2jv4p88",
-      "length": 5,
+      "_id": "cki0a78wz000y26787zswmdag",
+      "length": 7,
+      "plane": 2,
+      "startTime": 30,
+      "title": "DT2 duo",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
+      "groupingKey": "role"
+    },
+    {
+      "_id": "cki0hlfaa001o2678k5gfggw6",
+      "length": 7,
+      "plane": 2,
+      "startTime": 30,
+      "title": "DT1 duo",
+      "groupingKey": "role",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+    },
+    {
+      "_id": "cki0hn05h001y2678vyszl2l1",
+      "length": 7,
       "plane": 1,
-      "startTime": 27,
-      "title": "Discover trick 2",
+      "startTime": 30,
+      "title": "DT2 solo",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
@@ -179,46 +180,20 @@
   ],
   "operators": [
     {
-      "_id": "ckhpbgsem002l2474pueeu9x8",
-      "time": 25.293800539083627,
+      "_id": "cki0a78wz000z2678kl3l3b0t",
+      "time": 23.575050539083627,
       "type": "social",
-      "y": 117,
-      "operatorType": "op-create-groups",
-      "title": "Create groups",
-      "data": {
-        "grouping": "Practice group",
-        "groupnumber": true,
-        "globalnum": 2
-      },
+      "y": 46,
+      "title": "Jigsaw",
+      "operatorType": "op-jigsaw",
+      "data": {"roles": "trick1solo,trick1duo,trick2solo,trick2duo"},
       "configVersion": 1
     },
     {
-      "_id": "ckhpbi30d002s247408mhimg9",
-      "time": 41.5309973045822,
-      "type": "social",
-      "y": 198,
-      "title": "Jigsaw"
-    },
-    {
-      "_id": "cki05qs9i001t24745noj0z1q",
-      "time": 17.01347708894881,
+      "_id": "cki0a78wz00122678jxs1r6g9",
+      "time": 24.039273079514857,
       "type": "control",
-      "y": 126,
-      "operatorType": "op-performance-select",
-      "title": "Performance split",
-      "data": {
-        "activity_low": "ckhp4m6j2000f247457rpz4rj",
-        "activity_high": "ckhp4kwbd000d2474flwksjuz",
-        "use_percentage": false,
-        "min_correct": 1
-      },
-      "configVersion": 1
-    },
-    {
-      "_id": "cki05yfyt00242474646a7alt",
-      "time": 25.390835579514853,
-      "type": "control",
-      "y": 162,
+      "y": 168,
       "operatorType": "op-control-group",
       "title": "Social->Control",
       "data": {
@@ -227,82 +202,103 @@
         "rules": [
           {
             "includeexclude": "include",
-            "activity": "ckhp4w5a7000k24749dtbs4ho",
-            "who": "1,3,5,7,9,11,13,15,17,19"
+            "activity": "cki0a78wx000t2678oqq5yjqc",
+            "who": "trick1solo"
           },
           {
-            "includeexclude": "exclude",
-            "activity": "ckhp4wcvi000l24741sl63hxs",
-            "who": "1,3,5,7,9,11,13,15,17,19"
+            "includeexclude": "include",
+            "activity": "cki0hlfaa001o2678k5gfggw6",
+            "who": "trick1duo"
+          },
+          {
+            "includeexclude": "include",
+            "activity": "cki0a78wz000y26787zswmdag",
+            "who": "trick2duo"
+          },
+          {
+            "includeexclude": "include",
+            "activity": "cki0hn05h001y2678vyszl2l1",
+            "who": "trick2solo"
+          },
+          {
+            "includeexclude": "include",
+            "activity": "cki0a78wy000u2678ru8z1a21",
+            "who": "trick1duo,trick2duo"
           }
         ],
-        "social": "Practice group"
+        "social": "role"
       },
       "configVersion": 1
     },
     {
-      "_id": "cki06b9l1002i2474si2zpkz1",
-      "time": 16.91644204851752,
+      "_id": "cki0j7255002w2678h01dea9c",
+      "time": 40.1796875,
       "type": "social",
-      "y": 59,
-      "title": "Combine groups into larger groups"
+      "y": 35,
+      "operatorType": "op-argue-constraint",
+      "title": "Argue (with constraints)",
+      "data": {
+        "grouping": "role",
+        "matching": "trick1solo,trick2solo;trick1solo;trick2duo;trick1solo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo;trick2solo,trick1solo;trick2solo,trick1duo;trick2duo,trick1solo;trick2duo,trick1duo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo"
+      },
+      "configVersion": 1
     }
   ],
   "connections": [
     {
-      "_id": "ckhpbh3nq002n2474g8b4uyki",
-      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
-      "target": {"type": "activity", "id": "ckhp4wcvi000l24741sl63hxs"}
+      "_id": "cki0a78wz001d2678g1cuw7fr",
+      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
+      "target": {"type": "activity", "id": "cki0a78wz000y26787zswmdag"}
     },
     {
-      "_id": "ckhpbh4ns002o2474fr55elph",
-      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
-      "target": {"type": "activity", "id": "ckhp4w5a7000k24749dtbs4ho"}
+      "_id": "cki0a78wz001e26788s4oau6h",
+      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
+      "target": {"type": "activity", "id": "cki0a78wx000t2678oqq5yjqc"}
     },
     {
-      "_id": "ckhpbieop002t2474c1yxqz90",
-      "source": {"type": "operator", "id": "ckhpbi30d002s247408mhimg9"},
-      "target": {"type": "activity", "id": "ckhp4x391000o2474ng7v593z"}
+      "_id": "cki0hfbn2001d26780zt8260m",
+      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
+      "target": {"type": "activity", "id": "cki0a78wz000y26787zswmdag"}
     },
     {
-      "_id": "cki05qve1001u24749eyukbjo",
-      "source": {"type": "activity", "id": "ckhp4cylu000724741zhkui42"},
-      "target": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"}
+      "_id": "cki0hiasu001e2678p6s3736g",
+      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
+      "target": {"type": "activity", "id": "cki0a78wy000u2678ru8z1a21"}
     },
     {
-      "_id": "cki05r22d001v2474sq7akv6i",
-      "source": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"},
-      "target": {"type": "activity", "id": "ckhp4m6j2000f247457rpz4rj"}
+      "_id": "cki0hnj5g00202678yae6koof",
+      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
+      "target": {"type": "activity", "id": "cki0hn05h001y2678vyszl2l1"}
     },
     {
-      "_id": "cki05r35b001w24745phmv23p",
-      "source": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"},
-      "target": {"type": "activity", "id": "ckhp4kwbd000d2474flwksjuz"}
+      "_id": "cki0htfep00232678yme4d6t9",
+      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
+      "target": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"}
     },
     {
-      "_id": "cki05ys4l0025247442x3sbyk",
-      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
-      "target": {"type": "operator", "id": "cki05yfyt00242474646a7alt"}
+      "_id": "cki0hytrg002626789sw27kh0",
+      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
+      "target": {"type": "activity", "id": "cki0hlfaa001o2678k5gfggw6"}
     },
     {
-      "_id": "cki05yxzf0026247437tgzkok",
-      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
-      "target": {"type": "activity", "id": "ckhp4w5a7000k24749dtbs4ho"}
+      "_id": "cki0hz5wz002726784yooq0zi",
+      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
+      "target": {"type": "activity", "id": "cki0hlfaa001o2678k5gfggw6"}
     },
     {
-      "_id": "cki05z8re00282474o65vld4p",
-      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
-      "target": {"type": "activity", "id": "ckhp4wcvi000l24741sl63hxs"}
+      "_id": "cki0i0drf00282678dsnxnm38",
+      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
+      "target": {"type": "activity", "id": "cki0a78wy000u2678ru8z1a21"}
     },
     {
-      "_id": "cki0622rp002c24742tgkugoy",
-      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
-      "target": {"type": "activity", "id": "cki061efb00292474y2jv4p88"}
+      "_id": "cki0j7c7w002x2678zl611w4b",
+      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
+      "target": {"type": "operator", "id": "cki0j7255002w2678h01dea9c"}
     },
     {
-      "_id": "cki0624ya002d2474ndq33huj",
-      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
-      "target": {"type": "activity", "id": "ckhp4n5qt000i24747op88sjt"}
+      "_id": "cki0ja1z8002y2678bc4guu48",
+      "source": {"type": "operator", "id": "cki0j7255002w2678h01dea9c"},
+      "target": {"type": "activity", "id": "cki0a78wy000w2678s8ktluss"}
     }
   ]
 }
