@@ -6,7 +6,7 @@
     "createdAt": "2020-11-19T17:37:15.655Z",
     "uiStatus": "active",
     "graphVersion": 2,
-    "broken": false,
+    "broken": true,
     "duration": 60,
     "published": true
   },
@@ -90,20 +90,21 @@
     },
     {
       "_id": "ckhp4m6j2000f247457rpz4rj",
-      "length": 5,
+      "length": 6,
       "plane": 3,
       "startTime": 19,
       "title": "Explain the trick",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
+      "participationMode": "readonly"
     },
     {
       "_id": "ckhp4n5qt000i24747op88sjt",
       "length": 5,
       "plane": 1,
       "startTime": 27,
-      "title": "Discover trick to learn",
+      "title": "Discover trick 1",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
@@ -113,7 +114,7 @@
       "length": 5,
       "plane": 2,
       "startTime": 34,
-      "title": "Practive with a peer",
+      "title": "Practive with peer",
       "activityType": "ac-iframe",
       "configVersion": 1,
       "data": {"trusted": true, "url": "https://meet.jit.si/DELA-test"},
@@ -133,7 +134,7 @@
       "_id": "ckhp4x391000o2474ng7v593z",
       "length": 5,
       "plane": 2,
-      "startTime": 41,
+      "startTime": 43,
       "title": "Show the trick to someone",
       "activityType": "ac-iframe",
       "configVersion": 1,
@@ -144,7 +145,7 @@
       "_id": "ckhp4xu33000p2474bgqwzqvs",
       "length": 5,
       "plane": 1,
-      "startTime": 48,
+      "startTime": 50,
       "title": "Try to guess the trick",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -164,47 +165,24 @@
         "advancedConfig": true,
         "hasAnswers": true
       }
+    },
+    {
+      "_id": "cki061efb00292474y2jv4p88",
+      "length": 5,
+      "plane": 1,
+      "startTime": 27,
+      "title": "Discover trick 2",
+      "activityType": "ac-video",
+      "configVersion": 1,
+      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     }
   ],
   "operators": [
     {
-      "_id": "ckhp5u8co001i2474uk1qd9fs",
-      "time": 18.210242587601137,
-      "type": "social",
-      "y": 118,
-      "operatorType": "op-create-groups",
-      "title": "Create groups",
-      "data": {
-        "grouping": "Guess the trick skill",
-        "groupnumber": true,
-        "globalnum": 2
-      },
-      "configVersion": 1
-    },
-    {
-      "_id": "ckhpb91a3002a24748rwths4l",
-      "time": 17.239892183288443,
-      "type": "product",
-      "y": 183,
-      "operatorType": "op-dataset",
-      "title": "Dataset from quiz data",
-      "data": {
-        "datasets": [
-          {
-            "primaryType": "categorical",
-            "secondaryType": "categorical",
-            "name": "Answers",
-            "primary": 0
-          }
-        ]
-      },
-      "configVersion": 1
-    },
-    {
       "_id": "ckhpbgsem002l2474pueeu9x8",
-      "time": 31.924528301886802,
+      "time": 25.293800539083627,
       "type": "social",
-      "y": 165,
+      "y": 117,
       "operatorType": "op-create-groups",
       "title": "Create groups",
       "data": {
@@ -216,41 +194,61 @@
     },
     {
       "_id": "ckhpbi30d002s247408mhimg9",
-      "time": 40.52830188679245,
+      "time": 41.5309973045822,
       "type": "social",
-      "y": 192,
-      "operatorType": "op-argue",
-      "title": "Argue",
-      "configVersion": 1,
-      "data": {}
+      "y": 198,
+      "title": "Jigsaw"
+    },
+    {
+      "_id": "cki05qs9i001t24745noj0z1q",
+      "time": 17.01347708894881,
+      "type": "control",
+      "y": 126,
+      "operatorType": "op-performance-select",
+      "title": "Performance split",
+      "data": {
+        "activity_low": "ckhp4m6j2000f247457rpz4rj",
+        "activity_high": "ckhp4kwbd000d2474flwksjuz",
+        "use_percentage": false,
+        "min_correct": 1
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "cki05yfyt00242474646a7alt",
+      "time": 25.390835579514853,
+      "type": "control",
+      "y": 162,
+      "operatorType": "op-control-group",
+      "title": "Social->Control",
+      "data": {
+        "applytoall": false,
+        "individuals": false,
+        "rules": [
+          {
+            "includeexclude": "include",
+            "activity": "ckhp4w5a7000k24749dtbs4ho",
+            "who": "1,3,5,7,9,11,13,15,17,19"
+          },
+          {
+            "includeexclude": "exclude",
+            "activity": "ckhp4wcvi000l24741sl63hxs",
+            "who": "1,3,5,7,9,11,13,15,17,19"
+          }
+        ],
+        "social": "Practice group"
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "cki06b9l1002i2474si2zpkz1",
+      "time": 16.91644204851752,
+      "type": "social",
+      "y": 59,
+      "title": "Combine groups into larger groups"
     }
   ],
   "connections": [
-    {
-      "_id": "ckhp5xa6u001m2474h0z9auxg",
-      "source": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"},
-      "target": {"type": "activity", "id": "ckhp4kwbd000d2474flwksjuz"}
-    },
-    {
-      "_id": "ckhp5ys9f001r2474fqjh1cl3",
-      "source": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"},
-      "target": {"type": "activity", "id": "ckhp4m6j2000f247457rpz4rj"}
-    },
-    {
-      "_id": "ckhpb9344002b2474x3he8m1g",
-      "source": {"type": "activity", "id": "ckhp4cylu000724741zhkui42"},
-      "target": {"type": "operator", "id": "ckhpb91a3002a24748rwths4l"}
-    },
-    {
-      "_id": "ckhpbajzk002c2474f6gjsofk",
-      "source": {"type": "operator", "id": "ckhpb91a3002a24748rwths4l"},
-      "target": {"type": "operator", "id": "ckhp5u8co001i2474uk1qd9fs"}
-    },
-    {
-      "_id": "ckhpbgwqf002m2474bh5glzjt",
-      "source": {"type": "activity", "id": "ckhp4n5qt000i24747op88sjt"},
-      "target": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"}
-    },
     {
       "_id": "ckhpbh3nq002n2474g8b4uyki",
       "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
@@ -265,6 +263,46 @@
       "_id": "ckhpbieop002t2474c1yxqz90",
       "source": {"type": "operator", "id": "ckhpbi30d002s247408mhimg9"},
       "target": {"type": "activity", "id": "ckhp4x391000o2474ng7v593z"}
+    },
+    {
+      "_id": "cki05qve1001u24749eyukbjo",
+      "source": {"type": "activity", "id": "ckhp4cylu000724741zhkui42"},
+      "target": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"}
+    },
+    {
+      "_id": "cki05r22d001v2474sq7akv6i",
+      "source": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"},
+      "target": {"type": "activity", "id": "ckhp4m6j2000f247457rpz4rj"}
+    },
+    {
+      "_id": "cki05r35b001w24745phmv23p",
+      "source": {"type": "operator", "id": "cki05qs9i001t24745noj0z1q"},
+      "target": {"type": "activity", "id": "ckhp4kwbd000d2474flwksjuz"}
+    },
+    {
+      "_id": "cki05ys4l0025247442x3sbyk",
+      "source": {"type": "operator", "id": "ckhpbgsem002l2474pueeu9x8"},
+      "target": {"type": "operator", "id": "cki05yfyt00242474646a7alt"}
+    },
+    {
+      "_id": "cki05yxzf0026247437tgzkok",
+      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
+      "target": {"type": "activity", "id": "ckhp4w5a7000k24749dtbs4ho"}
+    },
+    {
+      "_id": "cki05z8re00282474o65vld4p",
+      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
+      "target": {"type": "activity", "id": "ckhp4wcvi000l24741sl63hxs"}
+    },
+    {
+      "_id": "cki0622rp002c24742tgkugoy",
+      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
+      "target": {"type": "activity", "id": "cki061efb00292474y2jv4p88"}
+    },
+    {
+      "_id": "cki0624ya002d2474ndq33huj",
+      "source": {"type": "operator", "id": "cki05yfyt00242474646a7alt"},
+      "target": {"type": "activity", "id": "ckhp4n5qt000i24747op88sjt"}
     }
   ]
 }

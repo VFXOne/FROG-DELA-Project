@@ -1,0 +1,211 @@
+{
+  "graph": {
+    "_id": "cki047gen00032474xf9e3qgy",
+    "name": "Sandbox",
+    "ownerId": "HAbjCKQnrafGeMhtN",
+    "createdAt": "2020-11-27T10:20:30.287Z",
+    "uiStatus": "active",
+    "graphVersion": 2,
+    "broken": false,
+    "duration": 60,
+    "published": true
+  },
+  "activities": [
+    {
+      "_id": "cki047geo00042474xd5a0i3y",
+      "length": 5,
+      "plane": 2,
+      "startTime": 41,
+      "title": "Chat 1",
+      "activityType": "ac-chat",
+      "configVersion": 1,
+      "data": {"title": "CHAT 1"},
+      "groupingKey": "group"
+    },
+    {
+      "_id": "cki047geo000524745pdekdch",
+      "length": 5,
+      "plane": 2,
+      "startTime": 41,
+      "title": "Chat 2",
+      "activityType": "ac-chat",
+      "configVersion": 1,
+      "data": {"hasRobotPrompt": false, "title": "CHAT 2"},
+      "groupingKey": "group"
+    },
+    {
+      "_id": "cki04hd63000f24741efbio6m",
+      "length": 5,
+      "plane": 1,
+      "startTime": 2,
+      "title": "Quizz",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "answers": [{"choice": "42", "isCorrect": true}, {"choice": "Idk"}],
+            "question": "<p>What is the meaning of life</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Is this real life ?</p>",
+            "answers": [
+              {"choice": "Yes", "isCorrect": true},
+              {"choice": "Fanta Sea"}
+            ]
+          }
+        ],
+        "title": "Quiz test",
+        "guidelines": "<p>Try to split students based on their correct answers on the quiz</p>",
+        "advancedConfig": true,
+        "hasAnswers": true,
+        "argueWeighting": false
+      }
+    },
+    {
+      "_id": "cki04naah000m2474nxzxlidn",
+      "length": 5,
+      "plane": 2,
+      "startTime": 13,
+      "title": "Correct",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {"title": "Correct answers", "text": "<p>Congrats</p>"},
+      "groupingKey": "skill group"
+    },
+    {
+      "_id": "cki04o200000o2474lxkbasgt",
+      "length": 5,
+      "plane": 2,
+      "startTime": 13,
+      "title": "Wrong",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Wrong answers",
+        "text": "<p>You answered incorrectly</p>"
+      },
+      "groupingKey": "skill group"
+    }
+  ],
+  "operators": [
+    {
+      "_id": "cki047geo00062474g9o07yvf",
+      "time": 34.29912308020896,
+      "type": "social",
+      "y": 78,
+      "operatorType": "op-create-groups",
+      "title": "Create groups",
+      "data": {"groupsize": 2, "strategy": "minimum", "grouping": "group"},
+      "configVersion": 1
+    },
+    {
+      "_id": "cki047geo000724744n3913qn",
+      "time": 33.871008641683495,
+      "type": "control",
+      "y": 195,
+      "operatorType": "op-control-group",
+      "title": "Social->Control",
+      "data": {
+        "applytoall": false,
+        "rules": [
+          {
+            "includeexclude": "include",
+            "activity": "cki047geo00042474xd5a0i3y",
+            "who": "1,3,5,7,9,11,13,15,17,19"
+          },
+          {
+            "includeexclude": "exclude",
+            "who": "1,3,5,7,9,11,13,15,17,19",
+            "activity": "cki047geo000524745pdekdch"
+          }
+        ],
+        "social": "group"
+      },
+      "configVersion": 1
+    },
+    {
+      "_id": "cki053wa800192474vj4u4yao",
+      "time": 9.412398921832885,
+      "type": "social",
+      "y": 89,
+      "title": "Create groups",
+      "operatorType": "op-create-groups",
+      "data": {"grouping": "skill group", "groupnumber": true, "globalnum": 2},
+      "configVersion": 1
+    },
+    {
+      "_id": "cki05nryt001j2474e2le07up",
+      "time": 8.66846361185988,
+      "type": "control",
+      "y": 176,
+      "operatorType": "op-performance-select",
+      "title": "Performance split",
+      "data": {
+        "min_correct": 1,
+        "activity_low": "cki04o200000o2474lxkbasgt",
+        "activity_high": "cki04naah000m2474nxzxlidn"
+      },
+      "configVersion": 1
+    }
+  ],
+  "connections": [
+    {
+      "_id": "cki047geo00082474rqwf442u",
+      "source": {"type": "operator", "id": "cki047geo00062474g9o07yvf"},
+      "target": {"type": "activity", "id": "cki047geo000524745pdekdch"}
+    },
+    {
+      "_id": "cki047geo00092474oy86b4cu",
+      "source": {"type": "operator", "id": "cki047geo00062474g9o07yvf"},
+      "target": {"type": "activity", "id": "cki047geo00042474xd5a0i3y"}
+    },
+    {
+      "_id": "cki047geo000a2474w1kwzaz1",
+      "source": {"type": "operator", "id": "cki047geo000724744n3913qn"},
+      "target": {"type": "activity", "id": "cki047geo000524745pdekdch"}
+    },
+    {
+      "_id": "cki047geo000b2474x1jwwxne",
+      "source": {"type": "operator", "id": "cki047geo000724744n3913qn"},
+      "target": {"type": "activity", "id": "cki047geo00042474xd5a0i3y"}
+    },
+    {
+      "_id": "cki047geo000c2474fc3hmsdw",
+      "source": {"type": "operator", "id": "cki047geo00062474g9o07yvf"},
+      "target": {"type": "operator", "id": "cki047geo000724744n3913qn"}
+    },
+    {
+      "_id": "cki05o3hm001k2474ok3ynyrw",
+      "source": {"type": "activity", "id": "cki04hd63000f24741efbio6m"},
+      "target": {"type": "operator", "id": "cki05nryt001j2474e2le07up"}
+    },
+    {
+      "_id": "cki05os2i001m2474a24y6asq",
+      "source": {"type": "operator", "id": "cki05nryt001j2474e2le07up"},
+      "target": {"type": "activity", "id": "cki04o200000o2474lxkbasgt"}
+    },
+    {
+      "_id": "cki05ot05001n2474baiojoxt",
+      "source": {"type": "operator", "id": "cki05nryt001j2474e2le07up"},
+      "target": {"type": "activity", "id": "cki04naah000m2474nxzxlidn"}
+    },
+    {
+      "_id": "cki05p9qp001q2474od0e3an7",
+      "source": {"type": "operator", "id": "cki053wa800192474vj4u4yao"},
+      "target": {"type": "activity", "id": "cki04o200000o2474lxkbasgt"}
+    },
+    {
+      "_id": "cki05palq001r2474v46r0vly",
+      "source": {"type": "operator", "id": "cki053wa800192474vj4u4yao"},
+      "target": {"type": "activity", "id": "cki04naah000m2474nxzxlidn"}
+    }
+  ]
+}
