@@ -1,18 +1,18 @@
 {
   "graph": {
-    "_id": "cki0a78wt000n2678oxs5spb3",
+    "_id": "cki1h7awy00033g71m7rpihqr",
     "name": "Learn a Magic Trick",
-    "ownerId": "KK9nND8RxjYHoXmRZ",
-    "createdAt": "2020-11-27T13:08:18.269Z",
+    "ownerId": "vii96DJ6Mrxt7jh5a",
+    "createdAt": "2020-11-28T09:12:04.354Z",
     "uiStatus": "active",
     "graphVersion": 2,
-    "broken": true,
+    "broken": false,
     "duration": 60,
     "published": true
   },
   "activities": [
     {
-      "_id": "cki0a78ww000o26783ez5ypcd",
+      "_id": "cki1h7ax100043g71e3rt7tki",
       "length": 3,
       "plane": 3,
       "startTime": 0,
@@ -28,10 +28,10 @@
       "participationMode": "readonly"
     },
     {
-      "_id": "cki0a78ww000p2678hyc96l2u",
-      "length": 3,
+      "_id": "cki1h7ax100053g71iqjxapl1",
+      "length": 2,
       "plane": 1,
-      "startTime": 15,
+      "startTime": 4,
       "title": "Guess the trick",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -40,24 +40,59 @@
         "questions": [
           {
             "multiple": false,
-            "text": false,
+            "text": true,
             "value": false,
-            "answers": [
-              {"choice": "Yes", "isCorrect": true},
-              {"choice": "No"},
-              {"choice": "I don't know"}
-            ],
-            "question": "<p>The magician has 2 identical cards in the deck</p>"
+            "question": "<p>Please describe how you think it's done</p>",
+            "answers": []
           },
           {
             "multiple": false,
             "text": false,
             "value": false,
-            "question": "<p>The magician has a small pp</p>",
+            "question": "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No "}]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Have you ever learned a magic trick ?&nbsp;</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No "}]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Have you ever shown a magic trick to someone else ?</p>",
+            "answers": [{"choice": "Yes "}, {"choice": "No"}]
+          },
+          {
+            "multiple": true,
+            "text": false,
+            "value": false,
+            "question": "<p>If yes, what kind of trick ?</p>",
+            "answers": [
+              {"choice": "Card"},
+              {"choice": "Coin"},
+              {"choice": "Cups and balls "},
+              {"choice": "Other"}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>",
             "answers": [
               {"choice": "Yes"},
-              {"choice": "No", "isCorrect": true},
-              {"choice": "I don't know"}
+              {"choice": "No"},
+              {"choice": "Wow such magic !"}
             ]
           }
         ],
@@ -68,20 +103,20 @@
       }
     },
     {
-      "_id": "cki0a78ww000q2678xub2jkjh",
-      "length": 2,
+      "_id": "cki1h7ax100063g7132doayiv",
+      "length": 1,
       "plane": 3,
-      "startTime": 8,
+      "startTime": 3,
       "title": "Show a trick",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     },
     {
-      "_id": "cki0a78wx000s2678ljbicspc",
-      "length": 2,
+      "_id": "cki1h7ax100073g710ekkekc0",
+      "length": 1,
       "plane": 3,
-      "startTime": 19,
+      "startTime": 6,
       "title": "Explain the trick",
       "activityType": "ac-video",
       "configVersion": 1,
@@ -89,20 +124,20 @@
       "participationMode": "readonly"
     },
     {
-      "_id": "cki0a78wx000t2678oqq5yjqc",
+      "_id": "cki1h7ax100083g71bp1y15ak",
       "length": 7,
       "plane": 1,
-      "startTime": 30,
+      "startTime": 7,
       "title": "DT1 solo",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     },
     {
-      "_id": "cki0a78wy000u2678ru8z1a21",
+      "_id": "cki1h7ax100093g713szhdquh",
       "length": 7,
       "plane": 2,
-      "startTime": 30,
+      "startTime": 7,
       "title": "Practive with peer",
       "activityType": "ac-iframe",
       "configVersion": 1,
@@ -110,10 +145,10 @@
       "groupingKey": "role"
     },
     {
-      "_id": "cki0a78wy000w2678s8ktluss",
+      "_id": "cki1h7ax1000a3g71n7upa9qf",
       "length": 3,
       "plane": 2,
-      "startTime": 42,
+      "startTime": 14,
       "title": "Show the trick to someone",
       "activityType": "ac-iframe",
       "configVersion": 1,
@@ -121,11 +156,11 @@
       "groupingKey": "group"
     },
     {
-      "_id": "cki0a78wz000x26782t948jip",
-      "length": 3,
+      "_id": "cki1h7ax1000b3g71y7kxnd6w",
+      "length": 2,
       "plane": 1,
-      "startTime": 50,
-      "title": "guess and evaluate",
+      "startTime": 17,
+      "title": "Review your partner's trick ",
       "activityType": "ac-quiz",
       "configVersion": 1,
       "data": {
@@ -135,21 +170,48 @@
             "multiple": false,
             "text": false,
             "value": false,
-            "answers": [{"choice": "Yes", "isCorrect": true}, {"choice": "No"}],
-            "question": "<p>Did he snorted ?</p>"
+            "answers": [
+              {"choice": "Yes", "isCorrect": false},
+              {"choice": "No"}
+            ],
+            "question": "<p>Did your comrade fooled you?</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>"
+          },
+          {
+            "multiple": true,
+            "text": false,
+            "value": false,
+            "question": "<p>Do you think he used one of the following technique ?</p>",
+            "answers": [
+              {"choice": "Double lift"},
+              {"choice": "Misdirection"},
+              {"choice": "None"},
+              {"choice": "I don't "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": true,
+            "value": false,
+            "question": "<p>Please try to describe how the trick&nbsp;work</p>"
           }
         ],
-        "title": "Where did the magic happen ?",
+        "title": "Review your partner's trick ",
         "guidelines": "<p>Try to guess the trick of your colleague</p>",
         "advancedConfig": true,
         "hasAnswers": true
       }
     },
     {
-      "_id": "cki0a78wz000y26787zswmdag",
+      "_id": "cki1h7ax1000c3g71bf743z45",
       "length": 7,
       "plane": 2,
-      "startTime": 30,
+      "startTime": 7,
       "title": "DT2 duo",
       "activityType": "ac-video",
       "configVersion": 1,
@@ -157,10 +219,10 @@
       "groupingKey": "role"
     },
     {
-      "_id": "cki0hlfaa001o2678k5gfggw6",
+      "_id": "cki1h7ax1000d3g71zrvbuxo5",
       "length": 7,
       "plane": 2,
-      "startTime": 30,
+      "startTime": 7,
       "title": "DT1 duo",
       "groupingKey": "role",
       "activityType": "ac-video",
@@ -168,20 +230,265 @@
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
     },
     {
-      "_id": "cki0hn05h001y2678vyszl2l1",
+      "_id": "cki1h7ax1000e3g71wkz7opjy",
       "length": 7,
       "plane": 1,
-      "startTime": 30,
+      "startTime": 7,
       "title": "DT2 solo",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+    },
+    {
+      "_id": "cki1in0cs001c3g71lieenqxx",
+      "length": 3,
+      "plane": 1,
+      "startTime": 19,
+      "title": "Auto-Review T1",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "answers": [],
+            "question": "<p>How well would you rate your performance ? ( 1 - 10 )&nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the first step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {
+                "choice": "Remove the first card of the deck to reveal that all cards have been “magically” flipped."
+              },
+              {
+                "choice": "Hide the flipped card at the bottom of the deck while letting the spectator choose a card. ",
+                "isCorrect": true
+              },
+              {"choice": "Remove the two first cards."},
+              {"choice": "Reveal the chosen card."},
+              {"choice": "Perform a misdirection to flip the packet."},
+              {"choice": "Flip three cards. "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the second step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {
+                "choice": "Remove the first card of the deck to reveal that all cards have been “magically” flipped."
+              },
+              {
+                "choice": "Hide the flipped card at the bottom of the deck while letting the spectator choose a card. "
+              },
+              {"choice": "Remove the two first cards."},
+              {"choice": "Reveal the chosen card."},
+              {
+                "choice": "Perform a misdirection to flip the packet.",
+                "isCorrect": true
+              },
+              {"choice": "Flip three cards. "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the third step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {
+                "choice": "Remove the first card of the deck to reveal that all cards have been “magically” flipped.",
+                "isCorrect": true
+              },
+              {
+                "choice": "Hide the flipped card at the bottom of the deck while letting the spectator choose a card. "
+              },
+              {"choice": "Remove the two first cards."},
+              {"choice": "Reveal the chosen card."},
+              {"choice": "Perform a misdirection to flip the packet."},
+              {"choice": "Flip three cards. "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the last step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {
+                "choice": "Hide the flipped card at the bottom of the deck while letting the spectator choose a card. "
+              },
+              {"choice": "Remove the two first cards."},
+              {
+                "choice": "Remove the first card of the deck to reveal that all cards have been “magically” flipped."
+              },
+              {"choice": "Perform a misdirection to flip the packet."},
+              {"choice": "Reveal the chosen card.", "isCorrect": true},
+              {"choice": "Flip three cards. "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>How well do you think you will remember how to execute it in the future ? ( 1 - 10 )</p>",
+            "answers": []
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Do you think you would have done better if you had more time to practice ?</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No"}]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>How well do you think you were able to fool your colleague ? ( 1 - 10 )</p>"
+          }
+        ],
+        "title": "Auto-Evaluation Trick 1",
+        "guidelines": "<p>You will now evaluate your own performance</p>",
+        "advancedConfig": true,
+        "hasAnswers": true
+      }
+    },
+    {
+      "_id": "cki1kapwm00063g71plm8v09q",
+      "length": 3,
+      "plane": 1,
+      "startTime": 19,
+      "title": "Auto-review T2",
+      "activityType": "ac-quiz",
+      "configVersion": 1,
+      "data": {
+        "shuffle": "none",
+        "questions": [
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "answers": [],
+            "question": "<p>How well would you rate your performance ? ( 1 - 10 )&nbsp;</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the first step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {"choice": "Execute a double lift", "isCorrect": true},
+              {"choice": "Bend the two cards as one"},
+              {
+                "choice": "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck"
+              },
+              {"choice": "Let the top card pop"},
+              {"choice": "Put the Kings on top of the pack"},
+              {"choice": "Draw 2 cards and discard one "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the second step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {"choice": "Execute a double lift"},
+              {"choice": "Bend the two cards as one", "isCorrect": true},
+              {
+                "choice": "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck"
+              },
+              {"choice": "Let the top card pop"},
+              {"choice": "Put the Kings on top of the pack"},
+              {"choice": "Draw 2 cards and discard one "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the third step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {"choice": "Execute a double lift"},
+              {"choice": "Bend the two cards as one"},
+              {
+                "choice": "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck",
+                "isCorrect": true
+              },
+              {"choice": "Let the top card pop"},
+              {"choice": "Put the Kings on top of the pack"},
+              {"choice": "Draw 2 cards and discard one "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>What's the last step to execute in your trick ?&nbsp;</p>",
+            "answers": [
+              {"choice": "Execute a double lift"},
+              {"choice": "Put the Kings on top of the pack"},
+              {"choice": "Bend the two cards as one"},
+              {"choice": "Let the top card pop", "isCorrect": true},
+              {
+                "choice": "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck"
+              },
+              {"choice": "Draw 2 cards and discard one "}
+            ]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>How well do you think you will remember how to execute it in the future ? ( 1 - 10 )</p>"
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": false,
+            "question": "<p>Do you think you would have done better if you had more time to practice ?</p>",
+            "answers": [{"choice": "Yes"}, {"choice": "No"}]
+          },
+          {
+            "multiple": false,
+            "text": false,
+            "value": true,
+            "question": "<p>How well do you think you were able to fool your comrade ? ( 1 - 10 )</p>"
+          }
+        ],
+        "title": "Auto-Evaluation Trick 2",
+        "guidelines": "<p>You will now evaluate your own performance</p>",
+        "advancedConfig": true,
+        "hasAnswers": true
+      }
+    },
+    {
+      "_id": "cki1m8ard001z3g71pr1w0o15",
+      "length": 3,
+      "plane": 2,
+      "startTime": 14,
+      "title": "Text ",
+      "activityType": "ac-text",
+      "configVersion": 1,
+      "data": {
+        "title": "Trick showdown ",
+        "text": "<p>You can now show your trick to your partner, you will then have to rate each other.&nbsp;</p>\n<p>If you are allright with it, please record the session so we can review your trick and grade it.&nbsp;</p>\n<p>To start the recording, click on the three dots at the bottom right and select start recording.&nbsp;</p>\n<p>You will have to login on dropbox :&nbsp;</p>\n<p>- You can connect with our dropbox account :&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;Username : dela-grouph@groupes.epfl.ch</p>\n<p>&nbsp;&nbsp;&nbsp;Password : learnmagicwithfrog</p>\n<p>- If something goes wrong you can also connect with your dropbox account and send us the video to :&nbsp;</p>\n<p>dela-grouph@groupes.epfl.ch</p>\n<p>Recording is not mandatory but it would really help us for our analysis. Don't worry we will delete the videos once the grading is done.&nbsp;</p>"
+      },
+      "groupingKey": "group"
     }
   ],
   "operators": [
     {
-      "_id": "cki0a78wz000z2678kl3l3b0t",
-      "time": 23.575050539083627,
+      "_id": "cki1h7ax2000f3g710drl9p41",
+      "time": 33.74692553908363,
       "type": "social",
       "y": 46,
       "title": "Jigsaw",
@@ -190,10 +497,10 @@
       "configVersion": 1
     },
     {
-      "_id": "cki0a78wz00122678jxs1r6g9",
-      "time": 24.039273079514857,
+      "_id": "cki1h7ax2000g3g71iym1cmfq",
+      "time": 25.133023079514857,
       "type": "control",
-      "y": 168,
+      "y": 110,
       "operatorType": "op-control-group",
       "title": "Social->Control",
       "data": {
@@ -202,27 +509,27 @@
         "rules": [
           {
             "includeexclude": "include",
-            "activity": "cki0a78wx000t2678oqq5yjqc",
+            "activity": "cki1h7ax100083g71bp1y15ak",
             "who": "trick1solo"
           },
           {
             "includeexclude": "include",
-            "activity": "cki0hlfaa001o2678k5gfggw6",
+            "activity": "cki1h7ax1000d3g71zrvbuxo5",
             "who": "trick1duo"
           },
           {
             "includeexclude": "include",
-            "activity": "cki0a78wz000y26787zswmdag",
+            "activity": "cki1h7ax1000c3g71bf743z45",
             "who": "trick2duo"
           },
           {
             "includeexclude": "include",
-            "activity": "cki0hn05h001y2678vyszl2l1",
+            "activity": "cki1h7ax1000e3g71wkz7opjy",
             "who": "trick2solo"
           },
           {
             "includeexclude": "include",
-            "activity": "cki0a78wy000u2678ru8z1a21",
+            "activity": "cki1h7ax100093g713szhdquh",
             "who": "trick1duo,trick2duo"
           }
         ],
@@ -231,10 +538,10 @@
       "configVersion": 1
     },
     {
-      "_id": "cki0j7255002w2678h01dea9c",
-      "time": 40.1796875,
+      "_id": "cki1h7ax2000h3g71pupo0nbz",
+      "time": 19.8046875,
       "type": "social",
-      "y": 35,
+      "y": 31,
       "operatorType": "op-argue-constraint",
       "title": "Argue (with constraints)",
       "data": {
@@ -242,63 +549,109 @@
         "matching": "trick1solo,trick2solo;trick1solo;trick2duo;trick1solo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo;trick2solo,trick1solo;trick2solo,trick1duo;trick2duo,trick1solo;trick2duo,trick1duo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo"
       },
       "configVersion": 1
+    },
+    {
+      "_id": "cki1kaz9a00073g71msulejd4",
+      "time": 29.484375,
+      "type": "control",
+      "y": 140,
+      "operatorType": "op-control-group",
+      "title": "Social->Control",
+      "data": {
+        "applytoall": false,
+        "individuals": false,
+        "social": "role",
+        "rules": [
+          {
+            "includeexclude": "include",
+            "activity": "cki1in0cs001c3g71lieenqxx",
+            "who": "trick1solo,trick1duo"
+          },
+          {
+            "includeexclude": "include",
+            "activity": "cki1kapwm00063g71plm8v09q",
+            "who": "trick2solo,trick2duo"
+          }
+        ]
+      },
+      "configVersion": 1
     }
   ],
   "connections": [
     {
-      "_id": "cki0a78wz001d2678g1cuw7fr",
-      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
-      "target": {"type": "activity", "id": "cki0a78wz000y26787zswmdag"}
+      "_id": "cki1h7ax2000i3g71ssczrb6f",
+      "source": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"},
+      "target": {"type": "activity", "id": "cki1h7ax1000c3g71bf743z45"}
     },
     {
-      "_id": "cki0a78wz001e26788s4oau6h",
-      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
-      "target": {"type": "activity", "id": "cki0a78wx000t2678oqq5yjqc"}
+      "_id": "cki1h7ax2000j3g71yd25xbir",
+      "source": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"},
+      "target": {"type": "activity", "id": "cki1h7ax100083g71bp1y15ak"}
     },
     {
-      "_id": "cki0hfbn2001d26780zt8260m",
-      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
-      "target": {"type": "activity", "id": "cki0a78wz000y26787zswmdag"}
+      "_id": "cki1h7ax2000k3g71jtgffevn",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "activity", "id": "cki1h7ax1000c3g71bf743z45"}
     },
     {
-      "_id": "cki0hiasu001e2678p6s3736g",
-      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
-      "target": {"type": "activity", "id": "cki0a78wy000u2678ru8z1a21"}
+      "_id": "cki1h7ax2000l3g71cq787e6x",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "activity", "id": "cki1h7ax100093g713szhdquh"}
     },
     {
-      "_id": "cki0hnj5g00202678yae6koof",
-      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
-      "target": {"type": "activity", "id": "cki0hn05h001y2678vyszl2l1"}
+      "_id": "cki1h7ax2000m3g710hbsdayk",
+      "source": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"},
+      "target": {"type": "activity", "id": "cki1h7ax1000e3g71wkz7opjy"}
     },
     {
-      "_id": "cki0htfep00232678yme4d6t9",
-      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
-      "target": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"}
+      "_id": "cki1h7ax2000n3g71f6lytmd0",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"}
     },
     {
-      "_id": "cki0hytrg002626789sw27kh0",
-      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
-      "target": {"type": "activity", "id": "cki0hlfaa001o2678k5gfggw6"}
+      "_id": "cki1h7ax2000o3g71gf775fuj",
+      "source": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"},
+      "target": {"type": "activity", "id": "cki1h7ax1000d3g71zrvbuxo5"}
     },
     {
-      "_id": "cki0hz5wz002726784yooq0zi",
-      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
-      "target": {"type": "activity", "id": "cki0hlfaa001o2678k5gfggw6"}
+      "_id": "cki1h7ax2000p3g71uitg9vsh",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "activity", "id": "cki1h7ax1000d3g71zrvbuxo5"}
     },
     {
-      "_id": "cki0i0drf00282678dsnxnm38",
-      "source": {"type": "operator", "id": "cki0a78wz00122678jxs1r6g9"},
-      "target": {"type": "activity", "id": "cki0a78wy000u2678ru8z1a21"}
+      "_id": "cki1h7ax2000q3g71ye6btyi7",
+      "source": {"type": "operator", "id": "cki1h7ax2000g3g71iym1cmfq"},
+      "target": {"type": "activity", "id": "cki1h7ax100093g713szhdquh"}
     },
     {
-      "_id": "cki0j7c7w002x2678zl611w4b",
-      "source": {"type": "operator", "id": "cki0a78wz000z2678kl3l3b0t"},
-      "target": {"type": "operator", "id": "cki0j7255002w2678h01dea9c"}
+      "_id": "cki1h7ax2000r3g719532vy4o",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "operator", "id": "cki1h7ax2000h3g71pupo0nbz"}
     },
     {
-      "_id": "cki0ja1z8002y2678bc4guu48",
-      "source": {"type": "operator", "id": "cki0j7255002w2678h01dea9c"},
-      "target": {"type": "activity", "id": "cki0a78wy000w2678s8ktluss"}
+      "_id": "cki1h7ax2000s3g71a8u7lc5v",
+      "source": {"type": "operator", "id": "cki1h7ax2000h3g71pupo0nbz"},
+      "target": {"type": "activity", "id": "cki1h7ax1000a3g71n7upa9qf"}
+    },
+    {
+      "_id": "cki1kb19p00083g71ve5go96x",
+      "source": {"type": "operator", "id": "cki1h7ax2000f3g710drl9p41"},
+      "target": {"type": "operator", "id": "cki1kaz9a00073g71msulejd4"}
+    },
+    {
+      "_id": "cki1kb2uy00093g71zflwncur",
+      "source": {"type": "operator", "id": "cki1kaz9a00073g71msulejd4"},
+      "target": {"type": "activity", "id": "cki1kapwm00063g71plm8v09q"}
+    },
+    {
+      "_id": "cki1kb5qf000a3g71c0sbjk16",
+      "source": {"type": "operator", "id": "cki1kaz9a00073g71msulejd4"},
+      "target": {"type": "activity", "id": "cki1in0cs001c3g71lieenqxx"}
+    },
+    {
+      "_id": "cki1meufx00053g71e670erpv",
+      "source": {"type": "operator", "id": "cki1h7ax2000h3g71pupo0nbz"},
+      "target": {"type": "activity", "id": "cki1m8ard001z3g71pr1w0o15"}
     }
   ]
 }
