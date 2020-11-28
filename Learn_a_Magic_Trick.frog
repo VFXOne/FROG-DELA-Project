@@ -23,7 +23,8 @@
         "studentCannotGoFurther": true,
         "studentMustFollow": false,
         "everyoneCanEdit": false,
-        "title": "Misdirection"
+        "title": "Misdirection",
+        "pdf_url": "/minio/uploads/cki1unqkn00033g710upraivg"
       },
       "participationMode": "readonly"
     },
@@ -118,10 +119,16 @@
       "plane": 3,
       "startTime": 6,
       "title": "Explain the trick",
-      "activityType": "ac-video",
+      "participationMode": "readonly",
+      "activityType": "ac-prez",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
-      "participationMode": "readonly"
+      "data": {
+        "studentCannotGoFurther": false,
+        "studentMustFollow": false,
+        "everyoneCanEdit": false,
+        "title": "Trick Explanation",
+        "pdf_url": "/minio/uploads/cki1unqkn00033g710upraivg"
+      }
     },
     {
       "_id": "cki1h7ax100083g71bp1y15ak",
@@ -131,7 +138,10 @@
       "title": "DT1 solo",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+      "data": {
+        "playing": true,
+        "url": "https://drive.google.com/file/d/1ee1V_TqCaBIHivDhvKzkirRG6no8Ii03/view?usp=sharing"
+      }
     },
     {
       "_id": "cki1h7ax100093g713szhdquh",
@@ -152,7 +162,7 @@
       "title": "Show the trick to someone",
       "activityType": "ac-iframe",
       "configVersion": 1,
-      "data": {"url": "https://meet.jit.si/DELA-test"},
+      "data": {"url": "https://meet.jit.si/DELA-{}", "trusted": true},
       "groupingKey": "group"
     },
     {
@@ -215,7 +225,10 @@
       "title": "DT2 duo",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"},
+      "data": {
+        "playing": true,
+        "url": "https://www.youtube.com/watch?v=JCFSrW2bTEo"
+      },
       "groupingKey": "role"
     },
     {
@@ -227,7 +240,10 @@
       "groupingKey": "role",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+      "data": {
+        "playing": true,
+        "url": "https://drive.google.com/file/d/1ee1V_TqCaBIHivDhvKzkirRG6no8Ii03/view?usp=sharing"
+      }
     },
     {
       "_id": "cki1h7ax1000e3g71wkz7opjy",
@@ -237,7 +253,10 @@
       "title": "DT2 solo",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {"playing": true, "url": "https://youtu.be/7CMb0Bs6vLg"}
+      "data": {
+        "playing": true,
+        "url": "https://drive.google.com/file/d/1HTykM3SnfnJGgH2QGrWR8pPuwzw24YUg/view?usp=sharing"
+      }
     },
     {
       "_id": "cki1in0cs001c3g71lieenqxx",
