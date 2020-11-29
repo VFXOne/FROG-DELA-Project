@@ -6,7 +6,7 @@
     "createdAt": "2020-11-28T09:12:04.354Z",
     "uiStatus": "active",
     "graphVersion": 2,
-    "broken": false,
+    "broken": true,
     "duration": 60,
     "published": true
   },
@@ -30,9 +30,9 @@
     },
     {
       "_id": "cki1h7ax100053g71iqjxapl1",
-      "length": 2,
+      "length": 5,
       "plane": 1,
-      "startTime": 4,
+      "startTime": 16,
       "title": "Guess the trick",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -105,9 +105,9 @@
     },
     {
       "_id": "cki1h7ax100063g7132doayiv",
-      "length": 1,
+      "length": 7,
       "plane": 3,
-      "startTime": 3,
+      "startTime": 8,
       "title": "Show a trick",
       "activityType": "ac-video",
       "configVersion": 1,
@@ -115,9 +115,9 @@
     },
     {
       "_id": "cki1h7ax100073g710ekkekc0",
-      "length": 1,
+      "length": 3,
       "plane": 3,
-      "startTime": 6,
+      "startTime": 22,
       "title": "Explain the trick",
       "participationMode": "readonly",
       "activityType": "ac-prez",
@@ -134,31 +134,31 @@
       "_id": "cki1h7ax100083g71bp1y15ak",
       "length": 7,
       "plane": 1,
-      "startTime": 7,
+      "startTime": 28,
       "title": "DT1 solo",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {
         "playing": true,
-        "url": "https://drive.google.com/file/d/1ee1V_TqCaBIHivDhvKzkirRG6no8Ii03/view?usp=sharing"
+        "url": "https://www.youtube.com/watch?v=TP0Bw2k5l_4&feature=youtu.be"
       }
     },
     {
       "_id": "cki1h7ax100093g713szhdquh",
       "length": 7,
       "plane": 2,
-      "startTime": 7,
+      "startTime": 28,
       "title": "Practive with peer",
       "activityType": "ac-iframe",
       "configVersion": 1,
       "data": {"trusted": true, "url": "https://meet.jit.si/DELA-{}"},
-      "groupingKey": "role"
+      "groupingKey": "group"
     },
     {
       "_id": "cki1h7ax1000a3g71n7upa9qf",
-      "length": 3,
+      "length": 6,
       "plane": 2,
-      "startTime": 14,
+      "startTime": 43,
       "title": "Show the trick to someone",
       "activityType": "ac-iframe",
       "configVersion": 1,
@@ -167,9 +167,9 @@
     },
     {
       "_id": "cki1h7ax1000b3g71y7kxnd6w",
-      "length": 2,
+      "length": 6,
       "plane": 1,
-      "startTime": 17,
+      "startTime": 50,
       "title": "Review your partner's trick ",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -221,48 +221,42 @@
       "_id": "cki1h7ax1000c3g71bf743z45",
       "length": 7,
       "plane": 2,
-      "startTime": 7,
+      "startTime": 28,
       "title": "DT2 duo",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {
-        "playing": true,
-        "url": "https://www.youtube.com/watch?v=JCFSrW2bTEo"
-      },
-      "groupingKey": "role"
+      "data": {"playing": true, "url": "https://youtu.be/yxdS2bl8cjM"},
+      "groupingKey": "group"
     },
     {
       "_id": "cki1h7ax1000d3g71zrvbuxo5",
       "length": 7,
       "plane": 2,
-      "startTime": 7,
+      "startTime": 28,
       "title": "DT1 duo",
-      "groupingKey": "role",
+      "groupingKey": "group",
       "activityType": "ac-video",
       "configVersion": 1,
       "data": {
         "playing": true,
-        "url": "https://drive.google.com/file/d/1ee1V_TqCaBIHivDhvKzkirRG6no8Ii03/view?usp=sharing"
+        "url": "https://www.youtube.com/watch?v=TP0Bw2k5l_4&feature=youtu.be"
       }
     },
     {
       "_id": "cki1h7ax1000e3g71wkz7opjy",
       "length": 7,
       "plane": 1,
-      "startTime": 7,
+      "startTime": 28,
       "title": "DT2 solo",
       "activityType": "ac-video",
       "configVersion": 1,
-      "data": {
-        "playing": true,
-        "url": "https://drive.google.com/file/d/1HTykM3SnfnJGgH2QGrWR8pPuwzw24YUg/view?usp=sharing"
-      }
+      "data": {"playing": true, "url": "https://youtu.be/yxdS2bl8cjM"}
     },
     {
       "_id": "cki1in0cs001c3g71lieenqxx",
       "length": 3,
       "plane": 1,
-      "startTime": 19,
+      "startTime": 57,
       "title": "Auto-Review T1",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -384,7 +378,7 @@
       "_id": "cki1kapwm00063g71plm8v09q",
       "length": 3,
       "plane": 1,
-      "startTime": 19,
+      "startTime": 57,
       "title": "Auto-review T2",
       "activityType": "ac-quiz",
       "configVersion": 1,
@@ -491,9 +485,9 @@
     },
     {
       "_id": "cki1m8ard001z3g71pr1w0o15",
-      "length": 3,
+      "length": 6,
       "plane": 2,
-      "startTime": 14,
+      "startTime": 43,
       "title": "Text ",
       "activityType": "ac-text",
       "configVersion": 1,
@@ -507,19 +501,19 @@
   "operators": [
     {
       "_id": "cki1h7ax2000f3g710drl9p41",
-      "time": 33.74692553908363,
+      "time": 18.106300539083627,
       "type": "social",
-      "y": 46,
-      "title": "Jigsaw",
-      "operatorType": "op-jigsaw",
-      "data": {"roles": "trick1solo,trick1duo,trick2solo,trick2duo"},
+      "y": 38,
+      "title": "Create groups",
+      "operatorType": "op-create-groups",
+      "data": {"groupsize": 2, "strategy": "minimum", "grouping": "group"},
       "configVersion": 1
     },
     {
       "_id": "cki1h7ax2000g3g71iym1cmfq",
-      "time": 25.133023079514857,
+      "time": 20.648648079514857,
       "type": "control",
-      "y": 110,
+      "y": 169,
       "operatorType": "op-control-group",
       "title": "Social->Control",
       "data": {
@@ -529,67 +523,67 @@
           {
             "includeexclude": "include",
             "activity": "cki1h7ax100083g71bp1y15ak",
-            "who": "trick1solo"
+            "who": "1,5,9,13,17,21"
           },
           {
             "includeexclude": "include",
             "activity": "cki1h7ax1000d3g71zrvbuxo5",
-            "who": "trick1duo"
+            "who": "2,6,10,14,18,22"
           },
           {
             "includeexclude": "include",
             "activity": "cki1h7ax1000c3g71bf743z45",
-            "who": "trick2duo"
+            "who": "3,7,11,15,19,23"
           },
           {
             "includeexclude": "include",
             "activity": "cki1h7ax1000e3g71wkz7opjy",
-            "who": "trick2solo"
+            "who": "4,8,12,16,20,24"
           },
           {
             "includeexclude": "include",
             "activity": "cki1h7ax100093g713szhdquh",
-            "who": "trick1duo,trick2duo"
+            "who": "2,3,6,7,10,11,14,15,18,19,22,23"
           }
         ],
-        "social": "role"
+        "social": "group"
       },
       "configVersion": 1
     },
     {
       "_id": "cki1h7ax2000h3g71pupo0nbz",
-      "time": 19.8046875,
+      "time": 37.7578125,
       "type": "social",
-      "y": 31,
+      "y": 59,
       "operatorType": "op-argue-constraint",
       "title": "Argue (with constraints)",
       "data": {
-        "grouping": "role",
-        "matching": "trick1solo,trick2solo;trick1solo;trick2duo;trick1solo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo;trick2solo,trick1solo;trick2solo,trick1duo;trick2duo,trick1solo;trick2duo,trick1duo,trick2solo;trick1solo,trick2duo;trick1duo,trick2solo;trick1duo,trick2duo"
+        "grouping": "group",
+        "matching": "2,4;2,8;2,12;2,16;2,20;2,24;2,3;2,7;2,11;2,15;2,19;2,23;6,4;6,8;6,12;6,16;6,20;6,24;6,3;6,7;6,11;6,15;6,19;6,23;10,4;10,8;10,12;10,16;10,20;10,24;10,3;10,7;10,11;10,15;10,19;10,23;14,4;14,8;14,12;14,16;14,20;14,24;14,3;14,7;14,11;14,15;14,19;14,23;18,4;18,8;18,12;18,16;18,20;18,24;18,3;18,7;18,11;18,15;18,19;18,23;22,4;22,8;22,12;22,16;22,20;22,24;22,3;22,7;22,11;22,15;22,19;22,23;1,4;1,8;1,12;1,16;1,20;1,24;1,3;1,7;1,11;1,15;1,19;1,23;5,4;5,8;5,12;5,16;5,20;5,24;5,3;5,7;5,11;5,15;5,19;5,23;9,4;9,8;9,12;9,16;9,20;9,24;9,3;9,7;9,11;9,15;9,19;9,23;13,4;13,8;13,12;13,16;13,20;13,24;13,3;13,7;13,11;13,15;13,19;13,23;17,4;17,8;17,12;17,16;17,20;17,24;17,3;17,7;17,11;17,15;17,19;17,23;21,4;21,8;21,12;21,16;21,20;21,24;21,3;21,7;21,11;21,15;21,19;21,23;4,2;4,6;4,10;4,14;4,18;4,22;4,1;4,5;4,9;4,13;4,17;4,21;8,2;8,6;8,10;8,14;8,18;8,22;8,1;8,5;8,9;8,13;8,17;8,21;12,2;12,6;12,10;12,14;12,18;12,22;12,1;12,5;12,9;12,13;12,17;12,21;16,2;16,6;16,10;16,14;16,18;16,22;16,1;16,5;16,9;16,13;16,17;16,21;20,2;20,6;20,10;20,14;20,18;20,22;20,1;20,5;20,9;20,13;20,17;20,21;24,2;24,6;24,10;24,14;24,18;24,22;24,1;24,5;24,9;24,13;24,17;24,21;3,2;3,6;3,10;3,14;3,18;3,22;3,1;3,5;3,9;3,13;3,17;3,21;7,2;7,6;7,10;7,14;7,18;7,22;7,1;7,5;7,9;7,13;7,17;7,21;11,2;11,6;11,10;11,14;11,18;11,22;11,1;11,5;11,9;11,13;11,17;11,21;15,2;15,6;15,10;15,14;15,18;15,22;15,1;15,5;15,9;15,13;15,17;15,21;19,2;19,6;19,10;19,14;19,18;19,22;19,1;19,5;19,9;19,13;19,17;19,21;23,2;23,6;23,10;23,14;23,18;23,22;23,1;23,5;23,9;23,13;23,17;23,21"
       },
       "configVersion": 1
     },
     {
       "_id": "cki1kaz9a00073g71msulejd4",
-      "time": 29.484375,
+      "time": 43.046875,
       "type": "control",
-      "y": 140,
+      "y": 31,
       "operatorType": "op-control-group",
       "title": "Social->Control",
       "data": {
         "applytoall": false,
         "individuals": false,
-        "social": "role",
+        "social": "group",
         "rules": [
           {
             "includeexclude": "include",
             "activity": "cki1in0cs001c3g71lieenqxx",
-            "who": "trick1solo,trick1duo"
+            "who": "1,5,9,13,17,21,2,6,10,14,18,22"
           },
           {
-            "includeexclude": "include",
+            "includeexclude": "exclude",
             "activity": "cki1kapwm00063g71plm8v09q",
-            "who": "trick2solo,trick2duo"
+            "who": "1,5,9,13,17,21,2,6,10,14,18,22"
           }
         ]
       },
