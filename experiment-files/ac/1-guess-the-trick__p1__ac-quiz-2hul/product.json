@@ -1,0 +1,373 @@
+{
+  "structure": "individual",
+  "payload": {
+    "3C2G6L2Lb7Xc9pWLE": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "At the second time, the coin falls on your knees"},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "2": true, "3": true, "4": true, "text": ""},
+          "3": {"text": "", "value": "10"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "5evKgJk6KjDdDqSZZ": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "I think he dropped the piece off the table before scratching his arm"
+          },
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "3"},
+          "4": {"0": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "9CBRzuDF4CNFmrAQq": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, "No ", "None", null, "No"],
+        "answersIndex": [-1, 1, 0, -1, 1],
+        "correctQs": [false, null, null, false, null],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Ilija Gjorgjiev answered the questions as follows: Have you ever seen a magic trick before ? No .  Have you ever learned a magic trick? If yes, what kind of trick? None.  Did you notice that the lecturer changed cap during the presentation ? ;) No.",
+        "form": {
+          "0": {"text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"text": ""},
+          "4": {"1": true, "text": ""}
+        }
+      }
+    },
+    "EBTm8RrapfNuTADYE": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "I don't know."},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "4"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "F8QHpjcxav78R9o62": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "I'm not sure (was still logging into frog, sorry!)"},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "3": true, "text": ""},
+          "3": {"text": "", "value": "2"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "KngyjFCgLrzfN6XaR": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "Two coins stacked on top of each other, then sweeps then onto lap;\nCould also be one coin but got hinted/misdirected at two with the doublelift video "
+          },
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "4"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "QiKRKRbxb8kMjYiLH": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "he hides the coin with the arm and hand which he used to hold the coin when he lets it drop."
+          },
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "3": true, "text": ""},
+          "3": {"text": "", "value": "3"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "RpdvawqmcQcXKLAcL": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1],
+        "correctQs": [false, false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""}
+        }
+      }
+    },
+    "SeuW5C9Zh7BYK6qCb": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "the coin fall on the knees of the magician"},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "2": true, "3": false, "4": true, "text": ""},
+          "3": {"text": "", "value": "7"},
+          "4": {"0": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "WxQyEYgu2aYuFhvBB": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "No idea"},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "2": true, "3": true, "text": ""},
+          "3": {"text": "", "value": "4"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "YLSgM2PrWYhGfjhoz": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "I missed the trick :( "},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "2"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "aq7paoDD2G6YADc2Y": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "coin falls down"},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "4"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "cJ9ydcLaGxLuvMgEw": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "The coin fell out of the screen video almost, so the magician simply pushed the coin out of the screen, instead of reaching out to pick it up."
+          },
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "3": true, "text": ""},
+          "3": {"text": "", "value": "2"},
+          "4": {"0": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "g939ZKLYnmXXcYYmd": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "third time you throw the coin under the table."},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "3"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "jejaoCvoJPnvTFC3X": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1],
+        "correctQs": [false, false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""}
+        }
+      }
+    },
+    "miDuMw8zNEk2aC6FM": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1],
+        "correctQs": [false, false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""}
+        }
+      }
+    },
+    "p6jyEN63CBePh9pJL": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"text": "The coin fell in his lap "},
+          "1": {"0": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"text": "", "value": "4"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "sY2PHLSsXkPtG4hWy": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1],
+        "correctQs": [false, false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""}
+        }
+      }
+    },
+    "si96GLusTjpboyLXY": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "Distraction by letting the coin going away, the second time you glide it under the table (?)"
+          },
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "3"},
+          "4": {"0": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "tGZEmTZtkhSJMp2u6": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {
+            "text": "The first 2 times, the coin falls on the table. That makes us watch the falling point on the thrid time, misleading us no to see the coin fall on the magician's lap. Focusing all the time on his right hand, we can spot a strange move, that's probably when he made the coin \"disappear\" my \"throwing\" it on his lapx."
+          },
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"text": "", "value": "6"},
+          "4": {"1": true, "text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "tkMkquazFa4TZBd8C": {
+      "data": {
+        "questions": [
+          "<p>Please describe how you think it's done</p>",
+          "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+          "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+          "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>",
+          "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>"
+        ],
+        "answers": [null, "Yes", null, null, null],
+        "answersIndex": [-1, 0, -1, -1, -1],
+        "correctQs": [false, null, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 5,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "pol answered the questions as follows: Have you ever seen a magic trick before ? Yes.",
+        "form": {
+          "0": {"text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_id": "cki4oldmp07vq01rs2dg2exea",
+  "type": "control",
+  "controlStructure": {
+    "list": {
+      "cki4oldmo07vc01rshsby7b4h": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "p6jyEN63CBePh9pJL": true,
+          "QiKRKRbxb8kMjYiLH": true,
+          "RpdvawqmcQcXKLAcL": true,
+          "cJ9ydcLaGxLuvMgEw": true,
+          "SeuW5C9Zh7BYK6qCb": true,
+          "sY2PHLSsXkPtG4hWy": true,
+          "miDuMw8zNEk2aC6FM": true
+        }
+      },
+      "cki4oldmo07vg01rs1rz4e5on": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "9CBRzuDF4CNFmrAQq": true,
+          "tGZEmTZtkhSJMp2u6": true,
+          "si96GLusTjpboyLXY": true,
+          "YLSgM2PrWYhGfjhoz": true,
+          "5evKgJk6KjDdDqSZZ": true,
+          "KngyjFCgLrzfN6XaR": true
+        }
+      },
+      "cki4oldmo07vh01rs1hqtcxc0": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "jejaoCvoJPnvTFC3X": true,
+          "WxQyEYgu2aYuFhvBB": true,
+          "EBTm8RrapfNuTADYE": true,
+          "aq7paoDD2G6YADc2Y": true
+        }
+      },
+      "cki4oldmo07vi01rsfxdr271c": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "g939ZKLYnmXXcYYmd": true,
+          "tkMkquazFa4TZBd8C": true,
+          "F8QHpjcxav78R9o62": true,
+          "3C2G6L2Lb7Xc9pWLE": true
+        }
+      },
+      "cki4oldmo07vd01rs1bnub8ni": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "jejaoCvoJPnvTFC3X": true,
+          "WxQyEYgu2aYuFhvBB": true,
+          "EBTm8RrapfNuTADYE": true,
+          "aq7paoDD2G6YADc2Y": true,
+          "9CBRzuDF4CNFmrAQq": true,
+          "tGZEmTZtkhSJMp2u6": true,
+          "si96GLusTjpboyLXY": true,
+          "YLSgM2PrWYhGfjhoz": true,
+          "5evKgJk6KjDdDqSZZ": true,
+          "KngyjFCgLrzfN6XaR": true
+        }
+      },
+      "cki4oldmp07vl01rs300t4o4a": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "p6jyEN63CBePh9pJL": true,
+          "QiKRKRbxb8kMjYiLH": true,
+          "RpdvawqmcQcXKLAcL": true,
+          "cJ9ydcLaGxLuvMgEw": true,
+          "SeuW5C9Zh7BYK6qCb": true,
+          "sY2PHLSsXkPtG4hWy": true,
+          "miDuMw8zNEk2aC6FM": true
+        }
+      },
+      "cki4oldmp07vm01rs14gg7bfb": {
+        "structure": "individual",
+        "mode": "include",
+        "payload": {
+          "g939ZKLYnmXXcYYmd": true,
+          "tkMkquazFa4TZBd8C": true,
+          "F8QHpjcxav78R9o62": true,
+          "3C2G6L2Lb7Xc9pWLE": true
+        }
+      }
+    }
+  }
+}

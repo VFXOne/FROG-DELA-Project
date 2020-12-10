@@ -1,0 +1,49 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "question": "<p>Please describe how you think it's done</p>",
+      "answers": []
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p>Have you ever seen a magic trick before ?&nbsp;</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No "}]
+    },
+    {
+      "multiple": true,
+      "text": false,
+      "value": false,
+      "question": "<p>Have you ever learned a magic trick? If yes, what kind of trick?</p>",
+      "answers": [
+        {"choice": "None"},
+        {"choice": "Card"},
+        {"choice": "Coin"},
+        {"choice": "Cups and balls "},
+        {"choice": "Other"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>Overall how familiar are you with magic ? ( 1 Not familiar at all, 10 Very familiar )&nbsp;</p>"
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p>Did you notice that the lecturer changed cap during the presentation ? ;)&nbsp;</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No"}]
+    }
+  ],
+  "title": "What's the trick?",
+  "guidelines": "<p>Try to guess where the magic happened in the short video we showed you.</p>",
+  "advancedConfig": true,
+  "hasAnswers": true
+}

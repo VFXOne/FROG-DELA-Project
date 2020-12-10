@@ -1,0 +1,36 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "answers": [],
+      "question": "<p>How well would you rate your performance ? ( 1 - 10 )&nbsp;</p>"
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>How well do you think you will remember how to execute it in the future ? ( 1 - 10 )</p>",
+      "answers": []
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p>Do you think you would have done better if you had more time to practice ?</p>",
+      "answers": [{"choice": "Yes"}, {"choice": "No"}]
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>How well do you think you were able to fool your colleague ? ( 1 - 10 )</p>"
+    }
+  ],
+  "title": "Auto-Evaluation",
+  "guidelines": "<p>You will now evaluate your own performance</p>",
+  "advancedConfig": true,
+  "hasAnswers": true
+}

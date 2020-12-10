@@ -1,0 +1,56 @@
+{
+  "_id": "cki4oldmo07va01rser5s2hul",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "sY2PHLSsXkPtG4hWy",
+      "cJ9ydcLaGxLuvMgEw",
+      "g939ZKLYnmXXcYYmd",
+      "3C2G6L2Lb7Xc9pWLE",
+      "QiKRKRbxb8kMjYiLH",
+      "tGZEmTZtkhSJMp2u6",
+      "SeuW5C9Zh7BYK6qCb",
+      "si96GLusTjpboyLXY",
+      "9CBRzuDF4CNFmrAQq",
+      "RpdvawqmcQcXKLAcL",
+      "KngyjFCgLrzfN6XaR",
+      "jejaoCvoJPnvTFC3X",
+      "5evKgJk6KjDdDqSZZ",
+      "aq7paoDD2G6YADc2Y",
+      "YLSgM2PrWYhGfjhoz",
+      "p6jyEN63CBePh9pJL",
+      "F8QHpjcxav78R9o62",
+      "tkMkquazFa4TZBd8C",
+      "EBTm8RrapfNuTADYE",
+      "WxQyEYgu2aYuFhvBB",
+      "miDuMw8zNEk2aC6FM"
+    ],
+    "students": {
+      "sY2PHLSsXkPtG4hWy": "Chen Li",
+      "cJ9ydcLaGxLuvMgEw": "Mariko Makhmutova",
+      "g939ZKLYnmXXcYYmd": "Maxime Alexandre Fellrath",
+      "3C2G6L2Lb7Xc9pWLE": "Michaël Spierer",
+      "QiKRKRbxb8kMjYiLH": "Gonxhe Idrizi",
+      "tGZEmTZtkhSJMp2u6": "Yannis David Charpilloz",
+      "SeuW5C9Zh7BYK6qCb": "François Marie Quellec",
+      "si96GLusTjpboyLXY": "Emma Eugénie Antoinette Lanctuit",
+      "9CBRzuDF4CNFmrAQq": "Ilija Gjorgjiev",
+      "RpdvawqmcQcXKLAcL": "Shasha Jiang",
+      "KngyjFCgLrzfN6XaR": "Ryan Christophe Yared",
+      "jejaoCvoJPnvTFC3X": "Maxime Nicolas David Cochet",
+      "5evKgJk6KjDdDqSZZ": "Corentin Junod",
+      "aq7paoDD2G6YADc2Y": "Julien Von Felten",
+      "YLSgM2PrWYhGfjhoz": "Marijn Van Der Meer",
+      "p6jyEN63CBePh9pJL": "Amine Chaouachi",
+      "F8QHpjcxav78R9o62": "Daniel Jeffrey Smarda",
+      "tkMkquazFa4TZBd8C": "pol",
+      "EBTm8RrapfNuTADYE": "Meret Moeschler",
+      "WxQyEYgu2aYuFhvBB": "Arthur Benjamin Simon Passuello",
+      "miDuMw8zNEk2aC6FM": "Guillaume Romain Cédric Augustoni"
+    }
+  }
+}

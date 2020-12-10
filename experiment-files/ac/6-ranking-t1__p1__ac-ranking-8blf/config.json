@@ -1,0 +1,15 @@
+{
+  "answers": [
+    "Remove the first card of the deck to reveal that all cards have been “magically” flipped",
+    "Flip the bottom card of the deck",
+    "Remove the two first cards",
+    "Reveal the chosen card",
+    "Perform a misdirection to flip the packet",
+    "Flip the top three cards",
+    "Replace the spectator's card in the middle of the deck",
+    "----END OF THE TRICK----"
+  ],
+  "justify": false,
+  "title": "<p>Be careful ! Some steps are not part of the trick. Please place them after the \"END OF THE TRICK\" step.</p>",
+  "guidelines": "<p>&nbsp;Place each step in the correct order</p>"
+}

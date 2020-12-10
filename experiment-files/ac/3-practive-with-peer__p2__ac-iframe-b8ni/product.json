@@ -1,0 +1,15 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "1": {"data": {"uuid": "cki5nrli9029x01rvfups0vot"}},
+    "2": {"data": {"uuid": "cki5nrlia029y01rvhylc5cw5"}},
+    "3": {"data": {"uuid": "cki5nrlib029z01rv7efbak0t"}},
+    "4": {"data": {"uuid": "cki5nrlib02a001rv3rb5amba"}},
+    "5": {"data": {"uuid": "cki5nrlib02a101rv96p8e2hx"}},
+    "6": {"data": {"uuid": "cki5nrlib02a201rv7l2gbts5"}},
+    "7": {"data": {"uuid": "cki5nrlic02a301rv4n9mbfx0"}},
+    "8": {"data": {"uuid": "cki5nrlic02a401rv7yaofeuz"}},
+    "9": {"data": {"uuid": "cki5nrlic02a501rvb5hb5mxv"}},
+    "10": {"data": {"uuid": "cki5nrlid02a601rvhtw9fo65"}}
+  }
+}

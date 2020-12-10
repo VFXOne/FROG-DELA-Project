@@ -1,0 +1,42 @@
+{
+  "applytoall": false,
+  "individuals": false,
+  "rules": [
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmo07vc01rshsby7b4h",
+      "who": "1,5,9,13,17,21"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmo07vg01rs1rz4e5on",
+      "who": "2,6,10,14,18,22"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmo07vh01rs1hqtcxc0",
+      "who": "3,7,11,15,19,23"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmo07vi01rsfxdr271c",
+      "who": "4,8,12,16,20,24"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmo07vd01rs1bnub8ni",
+      "who": "3,7,11,15,19,23,2,6,10,14,18,22"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmp07vl01rs300t4o4a",
+      "who": "1,5,9,13,17,21"
+    },
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmp07vm01rs14gg7bfb",
+      "who": "4,8,12,16,20,24"
+    }
+  ],
+  "social": "group"
+}

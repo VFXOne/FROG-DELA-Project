@@ -1,0 +1,17 @@
+{
+  "applytoall": false,
+  "individuals": false,
+  "social": "group",
+  "rules": [
+    {
+      "includeexclude": "include",
+      "activity": "cki4oldmp07vn01rsbu7e8blf",
+      "who": "1,3,5,7,9,11,13,15,17,19,21,23,25"
+    },
+    {
+      "includeexclude": "exclude",
+      "activity": "cki4oldmp07vo01rs1vu5b07c",
+      "who": "1,3,5,7,9,11,13,15,17,19,21,23,25"
+    }
+  ]
+}

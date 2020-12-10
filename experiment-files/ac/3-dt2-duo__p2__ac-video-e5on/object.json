@@ -1,0 +1,69 @@
+{
+  "_id": "cki4oldmo07vg01rs1rz4e5on",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {
+    "group": {
+      "1": ["p6jyEN63CBePh9pJL", "QiKRKRbxb8kMjYiLH", "RpdvawqmcQcXKLAcL"],
+      "2": ["9CBRzuDF4CNFmrAQq", "tGZEmTZtkhSJMp2u6"],
+      "3": ["jejaoCvoJPnvTFC3X", "WxQyEYgu2aYuFhvBB"],
+      "4": ["g939ZKLYnmXXcYYmd", "tkMkquazFa4TZBd8C"],
+      "5": ["cJ9ydcLaGxLuvMgEw", "SeuW5C9Zh7BYK6qCb"],
+      "6": ["si96GLusTjpboyLXY", "YLSgM2PrWYhGfjhoz"],
+      "7": ["EBTm8RrapfNuTADYE", "aq7paoDD2G6YADc2Y"],
+      "8": ["F8QHpjcxav78R9o62", "3C2G6L2Lb7Xc9pWLE"],
+      "9": ["sY2PHLSsXkPtG4hWy", "miDuMw8zNEk2aC6FM"],
+      "10": ["5evKgJk6KjDdDqSZZ", "KngyjFCgLrzfN6XaR"]
+    }
+  },
+  "globalStructure": {
+    "studentIds": [
+      "sY2PHLSsXkPtG4hWy",
+      "cJ9ydcLaGxLuvMgEw",
+      "EBTm8RrapfNuTADYE",
+      "g939ZKLYnmXXcYYmd",
+      "3C2G6L2Lb7Xc9pWLE",
+      "YLSgM2PrWYhGfjhoz",
+      "QiKRKRbxb8kMjYiLH",
+      "tGZEmTZtkhSJMp2u6",
+      "SeuW5C9Zh7BYK6qCb",
+      "F8QHpjcxav78R9o62",
+      "aq7paoDD2G6YADc2Y",
+      "si96GLusTjpboyLXY",
+      "9CBRzuDF4CNFmrAQq",
+      "p6jyEN63CBePh9pJL",
+      "RpdvawqmcQcXKLAcL",
+      "5evKgJk6KjDdDqSZZ",
+      "KngyjFCgLrzfN6XaR",
+      "WxQyEYgu2aYuFhvBB",
+      "jejaoCvoJPnvTFC3X",
+      "miDuMw8zNEk2aC6FM",
+      "tkMkquazFa4TZBd8C"
+    ],
+    "students": {
+      "sY2PHLSsXkPtG4hWy": "Chen Li",
+      "cJ9ydcLaGxLuvMgEw": "Mariko Makhmutova",
+      "EBTm8RrapfNuTADYE": "Meret Moeschler",
+      "g939ZKLYnmXXcYYmd": "Maxime Alexandre Fellrath",
+      "3C2G6L2Lb7Xc9pWLE": "Michaël Spierer",
+      "YLSgM2PrWYhGfjhoz": "Marijn Van Der Meer",
+      "QiKRKRbxb8kMjYiLH": "Gonxhe Idrizi",
+      "tGZEmTZtkhSJMp2u6": "Yannis David Charpilloz",
+      "SeuW5C9Zh7BYK6qCb": "François Marie Quellec",
+      "F8QHpjcxav78R9o62": "Daniel Jeffrey Smarda",
+      "aq7paoDD2G6YADc2Y": "Julien Von Felten",
+      "si96GLusTjpboyLXY": "Emma Eugénie Antoinette Lanctuit",
+      "9CBRzuDF4CNFmrAQq": "Ilija Gjorgjiev",
+      "p6jyEN63CBePh9pJL": "Amine Chaouachi",
+      "RpdvawqmcQcXKLAcL": "Shasha Jiang",
+      "5evKgJk6KjDdDqSZZ": "Corentin Junod",
+      "KngyjFCgLrzfN6XaR": "Ryan Christophe Yared",
+      "WxQyEYgu2aYuFhvBB": "Arthur Benjamin Simon Passuello",
+      "jejaoCvoJPnvTFC3X": "Maxime Nicolas David Cochet",
+      "miDuMw8zNEk2aC6FM": "Guillaume Romain Cédric Augustoni",
+      "tkMkquazFa4TZBd8C": "pol"
+    }
+  }
+}

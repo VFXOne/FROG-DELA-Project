@@ -1,0 +1,40 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "answers": [{"choice": "Yes", "isCorrect": false}, {"choice": "No"}],
+      "question": "<p>Did your comrade fooled you?</p>"
+    },
+    {
+      "multiple": false,
+      "text": false,
+      "value": true,
+      "question": "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>"
+    },
+    {
+      "multiple": true,
+      "text": false,
+      "value": false,
+      "question": "<p>Do you think he used one of the following technique ?</p>",
+      "answers": [
+        {"choice": "Double lift"},
+        {"choice": "Misdirection"},
+        {"choice": "None"},
+        {"choice": "I don't know"}
+      ]
+    },
+    {
+      "multiple": false,
+      "text": true,
+      "value": false,
+      "question": "<p>Please try to describe how the trick&nbsp;works</p>"
+    }
+  ],
+  "title": "Review your partner's trick ",
+  "guidelines": "<p>Try to guess the trick of your colleague/comrade</p>",
+  "advancedConfig": true,
+  "hasAnswers": true
+}

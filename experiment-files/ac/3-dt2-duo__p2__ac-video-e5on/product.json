@@ -1,0 +1,15 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "1": {"data": {}},
+    "2": {"data": {"play": 86.661}},
+    "3": {"data": {}},
+    "4": {"data": {}},
+    "5": {"data": {}},
+    "6": {"data": {"play": 86.661}},
+    "7": {"data": {}},
+    "8": {"data": {}},
+    "9": {"data": {}},
+    "10": {"data": {"play": 86.661}}
+  }
+}

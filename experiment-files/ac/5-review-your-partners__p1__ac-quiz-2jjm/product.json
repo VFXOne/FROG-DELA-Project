@@ -1,0 +1,369 @@
+{
+  "structure": "individual",
+  "payload": {
+    "3C2G6L2Lb7Xc9pWLE": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"text": "", "value": "7"},
+          "2": {"1": true, "text": ""},
+          "3": {
+            "text": "She misdirected me but we weren't able to record it for dropbox reasons unfortunally"
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": false
+      }
+    },
+    "5evKgJk6KjDdDqSZZ": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "1"},
+          "2": {"3": true, "text": ""},
+          "3": {
+            "text": "I'm sorry but the video on frog did not work for me, so I was unable to join a teammate and show my trick or see my teammate's trick. Sorry for the inconveniance...."
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "9CBRzuDF4CNFmrAQq": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "5"},
+          "2": {"1": true, "2": false, "text": ""},
+          "3": {"text": ""}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false}
+      }
+    },
+    "EBTm8RrapfNuTADYE": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": ["Yes", null, "I don't know", null],
+        "answersIndex": [0, -1, 3, -1],
+        "correctQs": [false, false, null, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Meret Moeschler answered the questions as follows: Did your comrade fooled you? Yes.  Do you think he used one of the following technique ? I don't know.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"text": ""},
+          "2": {"3": true, "text": ""},
+          "3": {"text": "I was alone in the reunion"}
+        }
+      }
+    },
+    "F8QHpjcxav78R9o62": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"text": "", "value": "6"},
+          "2": {"0": true, "1": true, "text": ""},
+          "3": {
+            "text": "It was too fast (we took the whole time to set up recording on Dropbox) so it was hard for me to understand what he was saying, he did it so fast!"
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "KngyjFCgLrzfN6XaR": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "8"},
+          "2": {"1": true, "text": ""},
+          "3": {
+            "text": "I already knew the trick; The deck was prepped by flipping it and putting one card face down before putting the pulled card into the deck. I did get misdirected though but knew how the trick worked so i could figure it out afterhand"
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "QiKRKRbxb8kMjYiLH": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "0"},
+          "2": {"3": true, "text": ""},
+          "3": {
+            "text": "I couldn't join a room to show the trick. So I won't answer the above to not bias anything."
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "RpdvawqmcQcXKLAcL": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "SeuW5C9Zh7BYK6qCb": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "5"},
+          "2": {"0": false, "1": false, "2": false, "3": true, "text": ""},
+          "3": {"text": "He didn't have time to perform"}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "WxQyEYgu2aYuFhvBB": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"text": "", "value": "9"},
+          "2": {"0": true, "text": ""},
+          "3": {
+            "text": "He dissimulated the right card with the double lift or something"
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "YLSgM2PrWYhGfjhoz": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "0"},
+          "2": {"2": true, "text": ""},
+          "3": {
+            "text": "My camera and mic did not work somehow on frog I could not do the activity sorry :( "
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "aq7paoDD2G6YADc2Y": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "cJ9ydcLaGxLuvMgEw": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": ["No", null, "I don't know", null],
+        "answersIndex": [1, -1, 3, -1],
+        "correctQs": [null, false, null, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Mariko Makhmutova answered the questions as follows: Did your comrade fooled you? No.  Do you think he used one of the following technique ? I don't know.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": ""},
+          "2": {"3": true, "text": ""},
+          "3": {
+            "text": "We couldn't complete the trick, my classmate's microphone wasn't working and then he took a while to set up the dropbox account, so neither of us had the time to show the trick."
+          }
+        }
+      }
+    },
+    "g939ZKLYnmXXcYYmd": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"text": "", "value": "10"},
+          "2": {"0": false, "1": true, "text": ""},
+          "3": {
+            "text": "As he didn't come I believe he used the 'lazy' trick :(  "
+          }
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "jejaoCvoJPnvTFC3X": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "miDuMw8zNEk2aC6FM": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "p6jyEN63CBePh9pJL": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "sY2PHLSsXkPtG4hWy": {
+      "data": {
+        "questions": [
+          "<p>Did your comrade fooled you?</p>",
+          "<p>How would you rate your comrade’s performance ? (Scale 1-10)</p>",
+          "<p>Do you think he used one of the following technique ?</p>",
+          "<p>Please try to describe how the trick&nbsp;works</p>"
+        ],
+        "answers": [null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1],
+        "correctQs": [false, false, false, false],
+        "correctCount": 0,
+        "maxCorrect": 4,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""}
+        }
+      }
+    },
+    "si96GLusTjpboyLXY": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "-1"},
+          "2": {"2": true, "text": ""},
+          "3": {"text": "I was alone"}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "tGZEmTZtkhSJMp2u6": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "0"},
+          "2": {"0": false, "3": true, "text": ""},
+          "3": {"text": "I was alone"}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    },
+    "tkMkquazFa4TZBd8C": {
+      "data": {
+        "justification": "",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"text": "", "value": "10"},
+          "2": {"1": true, "2": true, "text": ""},
+          "3": {"text": "j'étais tout seul"}
+        },
+        "coordinates": {"x": 0, "y": 0, "valid": false},
+        "completed": true
+      }
+    }
+  }
+}

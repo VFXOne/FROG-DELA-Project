@@ -1,0 +1,297 @@
+{
+  "structure": "individual",
+  "payload": {
+    "3C2G6L2Lb7Xc9pWLE": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "3C2G6L2Lb7Xc9pWLE": {
+            "Execute a double lift": 1,
+            "Bend the two cards as one": 2,
+            "Place the top card in the middle of the deck": 3,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 4,
+            "Let the top card pop": 5,
+            "----END OF THE TRICK----": 6,
+            "Draw 2 cards and discard one ": 7
+          }
+        },
+        "group": {"3C2G6L2Lb7Xc9pWLE": "Michaël Spierer"},
+        "coordinates": {"x": -1.6, "y": -8},
+        "alert": false,
+        "completed": true,
+        "msg": "Michaël Spierer ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Place the top card in the middle of the deck, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, Draw 2 cards and discard one , with no justification."
+      }
+    },
+    "5evKgJk6KjDdDqSZZ": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "5evKgJk6KjDdDqSZZ": {
+            "Execute a double lift": 1,
+            "Bend the two cards as one": 2,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 3,
+            "Let the top card pop": 4,
+            "----END OF THE TRICK----": 5,
+            "Draw 2 cards and discard one ": 6,
+            "Place the top card in the middle of the deck": 7
+          }
+        },
+        "group": {"5evKgJk6KjDdDqSZZ": "Corentin Junod"},
+        "coordinates": {"x": -1.6, "y": -6.4},
+        "alert": false,
+        "completed": true,
+        "msg": "Corentin Junod ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, Draw 2 cards and discard one , Place the top card in the middle of the deck, with no justification."
+      }
+    },
+    "9CBRzuDF4CNFmrAQq": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "9CBRzuDF4CNFmrAQq": {
+            "Bend the two cards as one": 1,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 2,
+            "----END OF THE TRICK----": 3
+          }
+        },
+        "group": {"9CBRzuDF4CNFmrAQq": "Ilija Gjorgjiev"},
+        "coordinates": {"x": 6.4, "y": -1.6},
+        "msg": "Ilija Gjorgjiev ranked the interfaces in the following order: Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, ----END OF THE TRICK----, with no justification."
+      }
+    },
+    "EBTm8RrapfNuTADYE": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "F8QHpjcxav78R9o62": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "F8QHpjcxav78R9o62": {
+            "Bend the two cards as one": 1,
+            "Draw 2 cards and discard one ": 4,
+            "Execute a double lift": 2,
+            "Let the top card pop": 3,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 5,
+            "Place the top card in the middle of the deck": 6,
+            "----END OF THE TRICK----": 7
+          }
+        },
+        "group": {"F8QHpjcxav78R9o62": "Daniel Jeffrey Smarda"},
+        "coordinates": {"x": 3.2, "y": -6.4},
+        "alert": false,
+        "completed": true,
+        "msg": "Daniel Jeffrey Smarda ranked the interfaces in the following order: Bend the two cards as one, Execute a double lift, Let the top card pop, Draw 2 cards and discard one , Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Place the top card in the middle of the deck, ----END OF THE TRICK----, with no justification."
+      }
+    },
+    "KngyjFCgLrzfN6XaR": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "KngyjFCgLrzfN6XaR": {
+            "Execute a double lift": 1,
+            "Bend the two cards as one": 2,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 3,
+            "Draw 2 cards and discard one ": 4,
+            "Place the top card in the middle of the deck": 5,
+            "Let the top card pop": 6,
+            "----END OF THE TRICK----": 7
+          }
+        },
+        "group": {"KngyjFCgLrzfN6XaR": "Ryan Christophe Yared"},
+        "coordinates": {"x": -1.6, "y": -6.4},
+        "alert": false,
+        "completed": true,
+        "msg": "Ryan Christophe Yared ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Draw 2 cards and discard one , Place the top card in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, with no justification."
+      }
+    },
+    "QiKRKRbxb8kMjYiLH": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "RpdvawqmcQcXKLAcL": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "SeuW5C9Zh7BYK6qCb": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "WxQyEYgu2aYuFhvBB": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "YLSgM2PrWYhGfjhoz": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "YLSgM2PrWYhGfjhoz": {
+            "Bend the two cards as one": 2,
+            "Draw 2 cards and discard one ": 1,
+            "Execute a double lift": 3,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 4,
+            "Let the top card pop": 5,
+            "Place the top card in the middle of the deck": 6,
+            "----END OF THE TRICK----": 7
+          }
+        },
+        "group": {"YLSgM2PrWYhGfjhoz": "Marijn Van Der Meer"},
+        "coordinates": {"x": -3.2, "y": 1.6},
+        "alert": false,
+        "completed": true,
+        "msg": "Marijn Van Der Meer ranked the interfaces in the following order: Draw 2 cards and discard one , Bend the two cards as one, Execute a double lift, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, Place the top card in the middle of the deck, ----END OF THE TRICK----, with no justification."
+      }
+    },
+    "aq7paoDD2G6YADc2Y": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "cJ9ydcLaGxLuvMgEw": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "g939ZKLYnmXXcYYmd": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "g939ZKLYnmXXcYYmd": {
+            "Let the top card pop": 6,
+            "Draw 2 cards and discard one ": 1,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 4,
+            "Execute a double lift": 2,
+            "Bend the two cards as one": 3,
+            "Place the top card in the middle of the deck": 5,
+            "----END OF THE TRICK----": 7
+          }
+        },
+        "group": {"g939ZKLYnmXXcYYmd": "Maxime Alexandre Fellrath"},
+        "coordinates": {"x": -6.4, "y": 1.6},
+        "alert": false,
+        "completed": true,
+        "msg": "Maxime Alexandre Fellrath ranked the interfaces in the following order: Draw 2 cards and discard one , Execute a double lift, Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Place the top card in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, with no justification."
+      }
+    },
+    "jejaoCvoJPnvTFC3X": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "miDuMw8zNEk2aC6FM": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "p6jyEN63CBePh9pJL": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "sY2PHLSsXkPtG4hWy": {
+      "data": {
+        "justification": "",
+        "answers": {},
+        "group": {},
+        "msg": "Uh Oh !! The student assigned to work with you has not completed the previous activity. If he still does not participate, you could discuss with your fellow student sitting next to you."
+      }
+    },
+    "si96GLusTjpboyLXY": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "si96GLusTjpboyLXY": {
+            "Execute a double lift": 1,
+            "Bend the two cards as one": 2,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 3,
+            "Let the top card pop": 4,
+            "----END OF THE TRICK----": 5,
+            "Draw 2 cards and discard one ": 6,
+            "Place the top card in the middle of the deck": 7
+          }
+        },
+        "group": {"si96GLusTjpboyLXY": "Emma Eugénie Antoinette Lanctuit"},
+        "coordinates": {"x": -1.6, "y": -6.4},
+        "alert": false,
+        "completed": true,
+        "msg": "Emma Eugénie Antoinette Lanctuit ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, Draw 2 cards and discard one , Place the top card in the middle of the deck, with no justification."
+      }
+    },
+    "tGZEmTZtkhSJMp2u6": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "tGZEmTZtkhSJMp2u6": {
+            "Execute a double lift": 1,
+            "Bend the two cards as one": 2,
+            "Place the top card in the middle of the deck": 6,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 3,
+            "----END OF THE TRICK----": 5,
+            "Let the top card pop": 4,
+            "Draw 2 cards and discard one ": 7
+          }
+        },
+        "group": {"tGZEmTZtkhSJMp2u6": "Yannis David Charpilloz"},
+        "coordinates": {"x": -1.6, "y": -6.4},
+        "alert": false,
+        "completed": true,
+        "msg": "Yannis David Charpilloz ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, Place the top card in the middle of the deck, Draw 2 cards and discard one , with no justification."
+      }
+    },
+    "tkMkquazFa4TZBd8C": {
+      "data": {
+        "justification": "",
+        "answers": {
+          "tkMkquazFa4TZBd8C": {
+            "Let the top card pop": 5,
+            "Execute a double lift": 1,
+            "Place the top card in the middle of the deck": 3,
+            "Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck": 4,
+            "Bend the two cards as one": 2,
+            "----END OF THE TRICK----": 6,
+            "Draw 2 cards and discard one ": 7
+          }
+        },
+        "group": {"tkMkquazFa4TZBd8C": "pol"},
+        "coordinates": {"x": -1.6, "y": -8},
+        "alert": false,
+        "completed": true,
+        "msg": "pol ranked the interfaces in the following order: Execute a double lift, Bend the two cards as one, Place the top card in the middle of the deck, Keep the bent top card hidden (flat) while replacing the other one in the middle of the deck, Let the top card pop, ----END OF THE TRICK----, Draw 2 cards and discard one , with no justification."
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "structure": "all",
+  "payload": {
+    "all": {
+      "data": {
+        "annotations": {},
+        "scratchpadAnnotations": [],
+        "scratchpadMode": false,
+        "pageNum": 4,
+        "pdf_file": "",
+        "furthestPageNum": 4
+      }
+    }
+  }
+}
