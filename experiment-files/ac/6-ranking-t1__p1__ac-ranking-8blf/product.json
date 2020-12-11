@@ -33,7 +33,7 @@
             "Flip the bottom card of the deck": 1,
             "Perform a misdirection to flip the packet": 2,
             "Replace the spectator's card in the middle of the deck": 3,
-            "Remove the first card of the deck to reveal that all cards have been “magically” flipped": 4,
+            "Remove the first card of the deck to reveal that all cards have been 'magically' flipped": 4,
             "Reveal the chosen card": 5,
             "----END OF THE TRICK----": 6,
             "Remove the two first cards": 7,
@@ -44,7 +44,7 @@
         "coordinates": {"x": 6.4, "y": -1.6},
         "alert": false,
         "completed": true,
-        "msg": "Meret Moeschler ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been “magically” flipped, Reveal the chosen card, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
+        "msg": "Meret Moeschler ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been 'magically' flipped, Reveal the chosen card, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
       }
     },
     "F8QHpjcxav78R9o62": {
@@ -72,7 +72,7 @@
             "Perform a misdirection to flip the packet": 2,
             "Reveal the chosen card": 3,
             "Replace the spectator's card in the middle of the deck": 4,
-            "Remove the first card of the deck to reveal that all cards have been “magically” flipped": 5,
+            "Remove the first card of the deck to reveal that all cards have been 'magically' flipped": 5,
             "----END OF THE TRICK----": 6,
             "Remove the two first cards": 7,
             "Flip the top three cards": 8
@@ -82,7 +82,7 @@
         "coordinates": {"x": 6.4, "y": -3.2},
         "alert": false,
         "completed": true,
-        "msg": "Gonxhe Idrizi ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Reveal the chosen card, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been “magically” flipped, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
+        "msg": "Gonxhe Idrizi ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Reveal the chosen card, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been 'magically' flipped, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
       }
     },
     "RpdvawqmcQcXKLAcL": {
@@ -101,7 +101,7 @@
             "Flip the bottom card of the deck": 1,
             "Perform a misdirection to flip the packet": 2,
             "Replace the spectator's card in the middle of the deck": 3,
-            "Remove the first card of the deck to reveal that all cards have been “magically” flipped": 4,
+            "Remove the first card of the deck to reveal that all cards have been 'magically' flipped": 4,
             "Reveal the chosen card": 5,
             "----END OF THE TRICK----": 6,
             "Remove the two first cards": 7,
@@ -112,7 +112,7 @@
         "coordinates": {"x": 6.4, "y": -1.6},
         "alert": false,
         "completed": true,
-        "msg": "François Marie Quellec ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been “magically” flipped, Reveal the chosen card, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
+        "msg": "François Marie Quellec ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been 'magically' flipped, Reveal the chosen card, ----END OF THE TRICK----, Remove the two first cards, Flip the top three cards, with no justification."
       }
     },
     "WxQyEYgu2aYuFhvBB": {
@@ -122,7 +122,7 @@
           "WxQyEYgu2aYuFhvBB": {
             "Flip the bottom card of the deck": 1,
             "Perform a misdirection to flip the packet": 2,
-            "Remove the first card of the deck to reveal that all cards have been “magically” flipped": 3,
+            "Remove the first card of the deck to reveal that all cards have been 'magically' flipped": 3,
             "----END OF THE TRICK----": 4,
             "Reveal the chosen card": 5,
             "Remove the two first cards": 6,
@@ -134,7 +134,7 @@
         "coordinates": {"x": 8, "y": -1.6},
         "alert": false,
         "completed": true,
-        "msg": "Arthur Benjamin Simon Passuello ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Remove the first card of the deck to reveal that all cards have been “magically” flipped, ----END OF THE TRICK----, Reveal the chosen card, Remove the two first cards, Replace the spectator's card in the middle of the deck, Flip the top three cards, with no justification."
+        "msg": "Arthur Benjamin Simon Passuello ranked the interfaces in the following order: Flip the bottom card of the deck, Perform a misdirection to flip the packet, Remove the first card of the deck to reveal that all cards have been 'magically' flipped, ----END OF THE TRICK----, Reveal the chosen card, Remove the two first cards, Replace the spectator's card in the middle of the deck, Flip the top three cards, with no justification."
       }
     },
     "YLSgM2PrWYhGfjhoz": {
@@ -162,7 +162,7 @@
             "Reveal the chosen card": 2,
             "Perform a misdirection to flip the packet": 3,
             "Replace the spectator's card in the middle of the deck": 4,
-            "Remove the first card of the deck to reveal that all cards have been “magically” flipped": 5,
+            "Remove the first card of the deck to reveal that all cards have been 'magically' flipped": 5,
             "----END OF THE TRICK----": 6,
             "Flip the top three cards": 7,
             "Remove the two first cards": 8
@@ -172,7 +172,7 @@
         "coordinates": {"x": 3.2, "y": -6.4},
         "alert": false,
         "completed": true,
-        "msg": "Mariko Makhmutova ranked the interfaces in the following order: Flip the bottom card of the deck, Reveal the chosen card, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been “magically” flipped, ----END OF THE TRICK----, Flip the top three cards, Remove the two first cards, with no justification."
+        "msg": "Mariko Makhmutova ranked the interfaces in the following order: Flip the bottom card of the deck, Reveal the chosen card, Perform a misdirection to flip the packet, Replace the spectator's card in the middle of the deck, Remove the first card of the deck to reveal that all cards have been 'magically' flipped, ----END OF THE TRICK----, Flip the top three cards, Remove the two first cards, with no justification."
       }
     },
     "g939ZKLYnmXXcYYmd": {
